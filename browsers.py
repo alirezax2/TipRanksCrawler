@@ -8,5 +8,5 @@ user_agents = {
     "Brave": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 OPR/84.0.4316.134",
     "Vivaldi": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Vivaldi/5.0.2497.48",
     "UC Browser": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
-    "Samsung Internet": "Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/17.0 Chrome/97.0.4692.81 Mobile Safari/537.36"
+    "Samsung Internet": "Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/17.0 Chrome/97.0.4692.81 Mobile Safari/537.36",
 }
