@@ -103,7 +103,7 @@ jobs:
   etl-merge:
     name: Pipeline ETL merge
     runs-on: ubuntu-latest
-    needs: etl-part1, etl-part2
+    needs: etl-part1
     timeout-minutes: 360  # Set timeout to 6 hours
 
     steps:
