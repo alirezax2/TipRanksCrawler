@@ -126,7 +126,7 @@ DFUSA = load_hf_dataset(
 
 # get ticker list by filtering only above 1 billion dollar company
 # DFUSA = pd.read_csv('america_2023-09-16.csv')
-tickerlst = list(DFUSA.query("`Market Capitalization`>1000e9").Ticker)
+tickerlst = list(DFUSA.query("`Market Capitalization`>1e9").Ticker)
 print(f"Number of Tickers: {len(tickerlst)}")
 
 # Initialize the argument parser
@@ -164,7 +164,7 @@ for ticker in tickerlst:
     #     value = valuedic['rank']
 
     try:
-        time.sleep(15)  # Pause for 15 seconds
+        time.sleep(10)  # Pause for 10 seconds
         # dftemp = pd.DataFrame(get_tiprank_value(ticker).values(), columns=['SmartScore'])
         tiprankvalue = get_tiprank_value(ticker)
         print(f"TipRanks Value = {tiprankvalue} of {ticker}")
@@ -186,6 +186,17 @@ DFtotal = DFmerge.merge(DFUSA)
 
 if not os.path.exists("tipranks"):
     os.mkdir("tipranks")
+
+# Interested columns
+DFtotal = DFtotal[
+    [
+        "Ticker",
+        "SmartScore",
+        "Market Capitalization",
+        "Sector",
+        "Industry",
+    ]
+]
 
 current_datetime = datetime.now().strftime("%Y-%m-%d")
 DFtotal.to_csv(rf"tipranks/tipranks_{current_datetime}_{args.part}.csv", index=False)
