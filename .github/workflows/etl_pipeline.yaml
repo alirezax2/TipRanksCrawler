@@ -124,9 +124,10 @@ etl-merge:
         run: uv sync --all-extras --dev
 
       - name: Run Merge
-        HF_TOKEN_TIPRANKS: ${{ secrets.HF_TOKEN_TIPRANKS }}
-        DATASET_NAME_TIPRANKS_OUTPUT: ${{ secrets.DATASET_NAME_TIPRANKS_OUTPUT }}
-        dataset_name_TradingView_input: ${{ secrets.dataset_name_TradingView_input }}  
+        env:
+          HF_TOKEN_TIPRANKS: ${{ secrets.HF_TOKEN_TIPRANKS }}
+          DATASET_NAME_TIPRANKS_OUTPUT: ${{ secrets.DATASET_NAME_TIPRANKS_OUTPUT }}
+          dataset_name_TradingView_input: ${{ secrets.dataset_name_TradingView_input }}
         run: uv run python merge.py
 
       # Step 6: Get current timestamp     
