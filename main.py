@@ -3,14 +3,26 @@
 def get_tiprank_value(ticker):
     import requests
     from lxml import html
+    import random
+    from browsers import user_agents
+
+    # Randomly select a user agent from the list
+    random_browser = random.choice(list(user_agents.items()))
+    selected_browser_name = random_browser[0]
+    selected_browser_ua = random_browser[1]
 
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
-        'Accept-Encoding': 'gzip, deflate, br',
-        'Accept-Language': 'en-US,en;q=0.9',
-        'Cache-Control': 'no-cache',
+        "User-Agent": selected_browser_ua
     }
+
+
+    # headers = {
+    #     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+    #     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+    #     'Accept-Encoding': 'gzip, deflate, br',
+    #     'Accept-Language': 'en-US,en;q=0.9',
+    #     'Cache-Control': 'no-cache',
+    # }
     xpath_expression = '//*[@id="tr-stock-page-content"]/div[1]/div[4]/div[2]/div[1]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/div/div/div/div[1]/svg/text/tspan'
     
     # # Send an HTTP GET request to the URL
@@ -40,13 +52,25 @@ def get_tiprank_values(ticker):
 
     from bs4 import BeautifulSoup
     import requests
+    import random
+    from browsers import user_agents
+
+    # Randomly select a user agent from the list
+    random_browser = random.choice(list(user_agents.items()))
+    selected_browser_name = random_browser[0]
+    selected_browser_ua = random_browser[1]
+
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
-        'Accept-Encoding': 'gzip, deflate, br',
-        'Accept-Language': 'en-US,en;q=0.9',
-        'Cache-Control': 'no-cache',
+        "User-Agent": selected_browser_ua
     }
+
+    # headers = {
+    #     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+    #     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+    #     'Accept-Encoding': 'gzip, deflate, br',
+    #     'Accept-Language': 'en-US,en;q=0.9',
+    #     'Cache-Control': 'no-cache',
+    # }
 
     # # Send an HTTP GET request to the URL
     url = f"https://www.tipranks.com/stocks/{ticker.lower()}"
@@ -104,7 +128,7 @@ DFUSA = load_hf_dataset("america.csv", HF_TOKEN_TIPRANKS, dataset_name_TradingVi
 
 #get ticker list by filtering only above 1 billion dollar company
 # DFUSA = pd.read_csv('america_2023-09-16.csv')
-tickerlst = list(DFUSA.query('`Market Capitalization`>1e9').Ticker)
+tickerlst = list(DFUSA.query('`Market Capitalization`>1000e9').Ticker)
 print(f"Number of Tickers: {len(tickerlst)}")
 
 # Initialize the argument parser
@@ -144,13 +168,16 @@ for ticker in tickerlst:
     try:
         time.sleep(15)  # Pause for 15 seconds
         # dftemp = pd.DataFrame(get_tiprank_value(ticker).values(), columns=['SmartScore'])    
-        dftemp = pd.DataFrame([get_tiprank_value(ticker)])
+        tiprankvalue = get_tiprank_value(ticker)
+        print(f"TipRanks Value = {tiprankvalue} of {ticker}")
+        # Convert the dictionary to a DataFrame
+        dftemp = pd.DataFrame([tiprankvalue])
 
         # Add the Ticker column for reference
         dftemp['Ticker'] = ticker
         dfs.append(dftemp)
     except:
-        print(f"could not retrieve data for {ticker}")
+        print(f"*** could not retrieve data for {ticker}")
         pass
 
 # Concatenate the DataFrames in the list to create a single DataFrame    
