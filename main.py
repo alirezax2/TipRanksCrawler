@@ -168,7 +168,7 @@ for ticker in tickerlst:
     try:
         time.sleep(15)  # Pause for 15 seconds
         # dftemp = pd.DataFrame(get_tiprank_value(ticker).values(), columns=['SmartScore'])    
-        tiprankvalue = get_tiprank_value(ticker)
+        tiprankvalue = get_tiprank_values(ticker)
         print(f"TipRanks Value = {tiprankvalue} of {ticker}")
         # Convert the dictionary to a DataFrame
         dftemp = pd.DataFrame([tiprankvalue])
