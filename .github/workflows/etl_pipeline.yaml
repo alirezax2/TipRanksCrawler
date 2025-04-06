@@ -34,9 +34,10 @@ jobs:
         run: uv sync --all-extras --dev
 
       - name: Pipeline ETL Part1
-        HF_TOKEN_TIPRANKS: ${{ secrets.HF_TOKEN_TIPRANKS }}
-        DATASET_NAME_TIPRANKS_OUTPUT: ${{ secrets.DATASET_NAME_TIPRANKS_OUTPUT }}
-        dataset_name_TradingView_input: ${{ secrets.dataset_name_TradingView_input }}  
+        env:
+          HF_TOKEN_TIPRANKS: ${{ secrets.HF_TOKEN_TIPRANKS }}
+          DATASET_NAME_TIPRANKS_OUTPUT: ${{ secrets.DATASET_NAME_TIPRANKS_OUTPUT }}
+          dataset_name_TradingView_input: ${{ secrets.dataset_name_TradingView_input }}
         run: uv run python main.py part1
 
       # Step 6: Get current timestamp     
@@ -78,9 +79,10 @@ jobs:
         run: uv sync --all-extras --dev
 
       - name: Run Pipeline ETL Part2
-        HF_TOKEN_TIPRANKS: ${{ secrets.HF_TOKEN_TIPRANKS }}
-        DATASET_NAME_TIPRANKS_OUTPUT: ${{ secrets.DATASET_NAME_TIPRANKS_OUTPUT }}
-        dataset_name_TradingView_input: ${{ secrets.dataset_name_TradingView_input }}  
+        env:
+          HF_TOKEN_TIPRANKS: ${{ secrets.HF_TOKEN_TIPRANKS }}
+          DATASET_NAME_TIPRANKS_OUTPUT: ${{ secrets.DATASET_NAME_TIPRANKS_OUTPUT }}
+          dataset_name_TradingView_input: ${{ secrets.dataset_name_TradingView_input }}
         run: uv run python main.py part2
 
       # Step 6: Get current timestamp     
