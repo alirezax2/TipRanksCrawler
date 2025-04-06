@@ -1,0 +1,144 @@
+name: TipRanks_ETL_Pipeline
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Every night at midnight UTC
+  push:
+    branches:
+      - main
+  workflow_dispatch:  # Manual trigger (hook)
+  
+  repository_dispatch:
+    types: [webhook-event]  
+
+jobs:
+  etl-part1:
+    name: Pipeline ETL Part1
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+          cache-dependency-glob: "uv.lock"
+
+      - name: "Set up Python"
+        uses: actions/setup-python@v5
+        with:
+          python-version-file: "pyproject.toml"     
+
+      - name: Install the project
+        run: uv sync --all-extras --dev
+
+      - name: Pipeline ETL Part1
+        HF_TOKEN_TIPRANKS: ${{ secrets.HF_TOKEN_TIPRANKS }}
+        DATASET_NAME_TIPRANKS_OUTPUT: ${{ secrets.DATASET_NAME_TIPRANKS_OUTPUT }}
+        dataset_name_TradingView_input: ${{ secrets.dataset_name_TradingView_input }}  
+        run: uv run python main.py part1
+
+      # Step 6: Get current timestamp     
+      - name: Get current timestamp
+        run: echo "TIMESTAMP=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
+
+      # Step 5: Commit and push the generated CSV file if there are changes
+      - name: Commit files
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add gurufocus/*
+          git commit -m "Add CSV files - $TIMESTAMP"
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+
+  etl-part2:
+    name: Pipeline ETL Part2
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+          cache-dependency-glob: "uv.lock"
+
+      - name: "Set up Python"
+        uses: actions/setup-python@v5
+        with:
+          python-version-file: "pyproject.toml"     
+
+      - name: Install the project
+        run: uv sync --all-extras --dev
+
+      - name: Run Pipeline ETL Part2
+        HF_TOKEN_TIPRANKS: ${{ secrets.HF_TOKEN_TIPRANKS }}
+        DATASET_NAME_TIPRANKS_OUTPUT: ${{ secrets.DATASET_NAME_TIPRANKS_OUTPUT }}
+        dataset_name_TradingView_input: ${{ secrets.dataset_name_TradingView_input }}  
+        run: uv run python main.py part2
+
+      # Step 6: Get current timestamp     
+      - name: Get current timestamp
+        run: echo "TIMESTAMP=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
+
+      # Step 5: Commit and push the generated CSV file if there are changes
+      - name: Commit files
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add gurufocus/*
+          git commit -m "Add CSV files - $TIMESTAMP"
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+etl-merge:
+    name: Pipeline ETL merge
+    runs-on: ubuntu-latest
+    needs: etl-part1, etl-part2
+    timeout-minutes: 360  # Set timeout to 6 hours
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+          cache-dependency-glob: "uv.lock"
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version-file: "pyproject.toml"
+
+      - name: Install the project
+        run: uv sync --all-extras --dev
+
+      - name: Run Merge
+        HF_TOKEN_TIPRANKS: ${{ secrets.HF_TOKEN_TIPRANKS }}
+        DATASET_NAME_TIPRANKS_OUTPUT: ${{ secrets.DATASET_NAME_TIPRANKS_OUTPUT }}
+        dataset_name_TradingView_input: ${{ secrets.dataset_name_TradingView_input }}  
+        run: uv run python merge.py
+
+      # Step 6: Get current timestamp     
+      - name: Get current timestamp
+        run: echo "TIMESTAMP=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
+
+      # Step 5: Commit and push the generated CSV file if there are changes
+      - name: Commit files
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add gurufocus/*
+          git commit -m "Add CSV files - $TIMESTAMP"
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
