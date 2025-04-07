@@ -126,7 +126,7 @@ DFUSA = load_hf_dataset(
 
 # get ticker list by filtering only above 1 billion dollar company
 # DFUSA = pd.read_csv('america_2023-09-16.csv')
-tickerlst = list(DFUSA.query("`Market Capitalization`>1000e9").Ticker)
+tickerlst = list(DFUSA.query("`Market Capitalization`>1e9").Ticker)
 print(f"Number of Tickers: {len(tickerlst)}")
 
 # Initialize the argument parser
