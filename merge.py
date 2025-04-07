@@ -22,11 +22,11 @@ DFtotal2 = pd.read_csv(rf"tipranks/tipranks_{current_datetime}_part2.csv")
 
 DFtotal = pd.concat([DFtotal1, DFtotal2], ignore_index=True)
 
-DFtotal.to_csv(rf"tipranks/tipranks_merged_{current_datetime}.csv", index=False)
-DFtotal.to_csv(rf"tipranks/tipranks_merged.csv", index=False)
+DFtotal.to_csv(rf"tipranks/tipranks_{current_datetime}.csv", index=False)
+DFtotal.to_csv(rf"tipranks/tipranks.csv", index=False)
 
-file_path = rf"tipranks/tipranks_merged_{current_datetime}.csv"
-latest_file_path = rf"tipranks/tipranks_merged.csv"
+file_path = rf"tipranks/tipranks_{current_datetime}.csv"
+latest_file_path = rf"tipranks/tipranks.csv"
 
 # Upload each file to the dataset
 upload_to_hf_dataset(
