@@ -167,6 +167,9 @@ for ticker in tickerlst:
         time.sleep(10)  # Pause for 10 seconds
         # dftemp = pd.DataFrame(get_tiprank_value(ticker).values(), columns=['SmartScore'])
         tiprankvalue = get_tiprank_value(ticker)
+        # if it fails, try one more time (almost 15% 432 out of 2912 failed)
+        if tiprankvalue==-1:
+            tiprankvalue = get_tiprank_value(ticker)
         print(f"TipRanks Value = {tiprankvalue} of {ticker}")
         # Convert the dictionary to a DataFrame
         dftemp = pd.DataFrame([tiprankvalue])
