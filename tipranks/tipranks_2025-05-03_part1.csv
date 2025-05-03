@@ -1,0 +1,1380 @@
+Ticker,SmartScore,Market Capitalization,Sector,Industry
+RGC,7,1001990684.0,Health Technology,Pharmaceuticals: Major
+MYRG,9,2283408950.0,Industrial Services,Engineering & Construction
+UPBD,8,1370465219.0,Finance,Finance/Rental/Leasing
+TNDM,1,1330811838.0000002,Health Technology,Medical Specialties
+TTMI,7,2372854181.0,Electronic Technology,Electronic Components
+WULF,-1,1242927206.0,Technology Services,Data Processing Services
+CNMD,3,1768873367.0,Health Technology,Medical Specialties
+OLO,6,1190171415.0,Technology Services,Packaged Software
+APLD,7,1170779290.0,Technology Services,Data Processing Services
+LOT,1,1266423095.0,Consumer Durables,Motor Vehicles
+ATI,9,8779630518.0,Non-Energy Minerals,Other Metals/Minerals
+FTDR,-1,3438263813.9999995,Consumer Durables,Homebuilding
+OLED,8,6717140741.000001,Electronic Technology,Electronic Production Equipment
+GTLS,8,6805590119.000001,Producer Manufacturing,Industrial Machinery
+CARR,9,60306333545.00001,Producer Manufacturing,Industrial Machinery
+AEIS,10,4078454556.0,Electronic Technology,Electronic Production Equipment
+BPMC,7,6409158556.000001,Health Technology,Biotechnology
+OKLO,-1,3662157539.000001,Producer Manufacturing,Industrial Machinery
+GTX,9,2086378397.0,Producer Manufacturing,Auto Parts: OEM
+AGCO,4,6965961833.0,Producer Manufacturing,Trucks/Construction/Farm Machinery
+VAL,2,2526504261.0,Industrial Services,Contract Drilling
+PWR,9,47730508064.00001,Industrial Services,Engineering & Construction
+CWH,6,1351959773.0,Retail Trade,Specialty Stores
+RIG,-1,2066831632.0,Industrial Services,Contract Drilling
+HUT,6,1403090394.8988223,Technology Services,Data Processing Services
+OSIS,10,3768583406.0,Electronic Technology,Aerospace & Defense
+HGV,7,3480483986.0,Finance,Real Estate Development
+CIFR,8,1156116644.0,Technology Services,Data Processing Services
+HIMS,9,8087734897.0,Health Services,Medical/Nursing Services
+MCW,-1,2432859951.0,Consumer Services,Other Consumer Services
+CLBK,4,1541434885.0,Finance,Savings Banks
+SDRL,5,1386493862.0,Industrial Services,Contract Drilling
+IDXX,9,38200182888.0,Health Technology,Medical Specialties
+DRS,6,10704719401.0,Electronic Technology,Aerospace & Defense
+SEI,9,1550153855.9999998,Technology Services,Information Technology Services
+GTLS/PB,8,6805590119.0,Producer Manufacturing,Industrial Machinery
+VRT,7,35271286876.0,Electronic Technology,Electronic Production Equipment
+NWL,2,2159509095.0,Producer Manufacturing,Industrial Machinery
+CEG,5,75387013354.0,Utilities,Electric Utilities
+MSFT,10,3161804148971.0,Technology Services,Packaged Software
+IESC,-1,4234603367.0,Industrial Services,Engineering & Construction
+COHR,6,10719089996.999998,Electronic Technology,Electronic Equipment/Instruments
+RIOT,9,2721734390.0,Technology Services,Information Technology Services
+CRWV,-1,20568887180.8,Technology Services,Packaged Software
+CNH,3,15488223655.999998,Producer Manufacturing,Trucks/Construction/Farm Machinery
+SOC,6,1787660524.0,Energy Minerals,Integrated Oil
+PGRE,-1,1008435358.0,Finance,Real Estate Investment Trusts
+STRL,7,4865499834.0,Industrial Services,Engineering & Construction
+CNXN,4,1686122601.0,Technology Services,Information Technology Services
+OSW,5,1833145686.0,Consumer Services,Other Consumer Services
+HWM,9,59872767696.00001,Electronic Technology,Aerospace & Defense
+QNST,3,1056527477.0,Commercial Services,Advertising/Marketing Services
+ANET,-1,110294138292.0,Electronic Technology,Computer Peripherals
+SIM,4,4511238781.02925,Non-Energy Minerals,Steel
+APG,4,11304114287.000002,Industrial Services,Engineering & Construction
+CSTM,8,1540655994.0,Commercial Services,Miscellaneous Commercial Services
+SITM,5,3713131504.0,Electronic Technology,Semiconductors
+MOD,9,4573938114.0,Producer Manufacturing,Industrial Machinery
+PRIM,6,3442485634.9999995,Industrial Services,Engineering & Construction
+ECG,7,2184806833.0,Industrial Services,Engineering & Construction
+BTDR,6,1959646531.0,Technology Services,Data Processing Services
+CIEN,1,10153465656.0,Electronic Technology,Telecommunications Equipment
+ALKS,6,5040691822.0,Health Technology,Pharmaceuticals: Major
+WAY,-1,6827329471.000001,Technology Services,Packaged Software
+CLSK,5,2434601798.0000005,Technology Services,Data Processing Services
+ALAB,5,11415399137.000002,Electronic Technology,Semiconductors
+PATK,3,2737430057.0,Consumer Durables,Homebuilding
+LRN,10,6558954303.999999,Consumer Services,Other Consumer Services
+VST,9,46703567295.00001,Utilities,Electric Utilities
+SMG,-1,3066743211.9999995,Process Industries,Chemicals: Agricultural
+CRDO,5,7732747885.0,Technology Services,Information Technology Services
+ROAD,7,4858645740.0,Industrial Services,Engineering & Construction
+AAON,7,7843894542.0,Producer Manufacturing,Industrial Machinery
+SCL,6,1205109903.0000002,Process Industries,Chemicals: Specialty
+CORZ,8,2521320118.9999995,Technology Services,Data Processing Services
+SON,-1,4266507763.0,Process Industries,Containers/Packaging
+H,5,11325600886.0,Consumer Services,Hotels/Resorts/Cruise lines
+NBIS,10,5633246976.0,Technology Services,Internet Software/Services
+MTZ,7,10595082374.999998,Industrial Services,Engineering & Construction
+SHC,5,3434646479.9999995,Health Technology,Medical Specialties
+BTE,4,1253215739.0707967,Energy Minerals,Integrated Oil
+HAYW,-1,3030979655.0,Consumer Durables,Recreational Products
+FIX,10,14746648572.999998,Industrial Services,Engineering & Construction
+DFIN,4,1400736309.0,Technology Services,Packaged Software
+LUNR,7,1549296588.0,Electronic Technology,Aerospace & Defense
+MARA,8,4858726148.0,Technology Services,Data Processing Services
+OII,8,1876087913.0,Producer Manufacturing,Industrial Machinery
+EXTR,-1,1833350677.0,Electronic Technology,Computer Peripherals
+ROCK,4,1637599668.9999998,Producer Manufacturing,Metal Fabrication
+KIM,7,14235496109.0,Finance,Real Estate Investment Trusts
+USLM,5,2804838215.0,Non-Energy Minerals,Construction Materials
+SUI,7,16635229108.0,Finance,Real Estate Investment Trusts
+MESO,6,1531688988.98385,Health Technology,Biotechnology
+NAMS,8,2246778741.0,Health Technology,Pharmaceuticals: Major
+AAMI,6,1045270533.0,Finance,Investment Managers
+WHD,5,3165942862.0,Industrial Services,Oilfield Services/Equipment
+NFE,8,1555023891.0000002,Utilities,Gas Distributors
+CTRI,4,1662359175.0,Utilities,Gas Distributors
+HURN,-1,2430592853.0,Commercial Services,Miscellaneous Commercial Services
+APLS,5,2523699743.0,Health Technology,Pharmaceuticals: Major
+CLS,9,10258434166.854424,Electronic Technology,Electronic Components
+FLOC,9,1849450277.0,Industrial Services,Oilfield Services/Equipment
+CCZ,,126273864640.0,Consumer Services,Cable/Satellite TV
+EYE,5,1016306932.0,Retail Trade,Specialty Stores
+MRVL,-1,52786603038.0,Electronic Technology,Semiconductors
+POWL,5,2305930569.0,Producer Manufacturing,Electrical Products
+APA,9,5905122705.0,Energy Minerals,Integrated Oil
+HPK,5,1053923724.0,Energy Minerals,Oil & Gas Production
+JHG,7,5460953863.0,Finance,Investment Managers
+VAC,6,1977028922.0,Consumer Services,Other Consumer Services
+RUN,-1,1626447767.0000002,Electronic Technology,Semiconductors
+INMD,7,1022512436.0,Health Technology,Medical Specialties
+IREN,6,1424061717.0,Technology Services,Data Processing Services
+META,10,1444848401516.0,Technology Services,Internet Software/Services
+AGIO,6,1791896297.0,Health Technology,Pharmaceuticals: Major
+LITE,8,4257183844.0,Producer Manufacturing,Electrical Products
+NRG,-1,23246546881.0,Utilities,Electric Utilities
+APAM,6,3106339402.0,Finance,Investment Managers
+CVS,10,87672558776.0,Retail Trade,Drugstore Chains
+DDOG,2,36678809462.0,Technology Services,Packaged Software
+BIO.B,,6507357512.188,Health Technology,Medical Specialties
+DBRG,2,1644781009.0,Finance,Investment Managers
+JCI,6,57597141724.0,Producer Manufacturing,Industrial Machinery
+DINO,8,5891499309.0,Energy Minerals,Oil Refining/Marketing
+ODD,10,3566869296.0000005,Technology Services,Packaged Software
+HP,7,1951795814.0,Industrial Services,Contract Drilling
+HWCPZ,,4539799476.0,Finance,Regional Banks
+PTEN,-1,2261884048.0,Industrial Services,Contract Drilling
+AVT,6,4223152709.0,Distribution Services,Electronics Distributors
+CIVI,6,2620752540.9999995,Energy Minerals,Integrated Oil
+OFG,5,1857598264.0,Finance,Major Banks
+SM,8,2709314056.0000005,Energy Minerals,Oil & Gas Production
+VYX,3,1230028129.9999998,Electronic Technology,Electronic Equipment/Instruments
+AESI,6,1736273430.0,Industrial Services,Oilfield Services/Equipment
+TLN,10,10164154265.2,Utilities,Alternative Power Generation
+HLT,,55643130692.0,Consumer Services,Hotels/Resorts/Cruise lines
+CHA,,6380193938.0,Miscellaneous,Miscellaneous
+JBGS,2,1059999178.0,Finance,Real Estate Investment Trusts
+INOD,9,1246003411.0,Technology Services,Data Processing Services
+APP,10,94568954948.0,Technology Services,Packaged Software
+SLM,10,6293596577.0,Finance,Finance/Rental/Leasing
+NE,9,3580567303.0,Industrial Services,Contract Drilling
+AGX,5,2165113137.0,Industrial Services,Engineering & Construction
+VG,-1,21050640098.0,Industrial Services,Oil & Gas Pipelines
+SNOW,7,55246777213.0,Technology Services,Packaged Software
+SHCO,5,1211715585.0,Commercial Services,Miscellaneous Commercial Services
+TALO,3,1272385163.0,Energy Minerals,Oil & Gas Production
+TSM,10,732921519461.875,Electronic Technology,Semiconductors
+AB,9,4518761447.0,Finance,Investment Managers
+KVYO,5,8611318580.0,Technology Services,Packaged Software
+FWRG,-1,1115117168.0,Consumer Services,Restaurants
+DE,8,130284116703.00002,Producer Manufacturing,Trucks/Construction/Farm Machinery
+W,3,3964607613.0,Retail Trade,Specialty Stores
+BHE,5,1215337506.0,Electronic Technology,Electronic Production Equipment
+OSK,6,5580503559.0,Consumer Durables,Motor Vehicles
+LFUS,7,4663247999.999999,Electronic Technology,Electronic Production Equipment
+SMTC,-1,2801382686.9999995,Electronic Technology,Semiconductors
+GH,8,6054408689.0,Health Services,Medical/Nursing Services
+KGS,7,3094421704.0,Industrial Services,Oilfield Services/Equipment
+MEOH,7,2181583001.252512,Process Industries,Chemicals: Specialty
+FSS,7,5136015082.0,Producer Manufacturing,Trucks/Construction/Farm Machinery
+LB,10,5729822238.0,Commercial Services,Miscellaneous Commercial Services
+CRS,8,10071854490.0,Non-Energy Minerals,Other Metals/Minerals
+EXOD,8,1154812128.9999998,Technology Services,Packaged Software
+TEX,1,2412544845.9999995,Producer Manufacturing,Trucks/Construction/Farm Machinery
+UMBF,4,7104227326.0,Finance,Major Banks
+LBRT,6,1925635775.0,Industrial Services,Oilfield Services/Equipment
+ORCL,7,407988003583.0,Technology Services,Packaged Software
+KTOS,9,5354267610.0,Electronic Technology,Aerospace & Defense
+AGM.A,,1863069132.0,Finance,Finance/Rental/Leasing
+LZMH,-1,1484604000.0,Commercial Services,Advertising/Marketing Services
+KEX,-1,5665803299.999999,Transportation,Marine Shipping
+EXAS,8,8760224711.999998,Health Technology,Medical Specialties
+CFR,3,7735760551.999999,Finance,Regional Banks
+KALU,8,1075881355.0,Non-Energy Minerals,Aluminum
+LNW,6,7450774349.999999,Consumer Services,Casinos/Gaming
+ZETA,7,3206876020.0000005,Technology Services,Packaged Software
+DY,8,4980517650.0,Industrial Services,Engineering & Construction
+CRK,7,5527359436.999999,Energy Minerals,Oil & Gas Production
+BLBD,6,1156319805.9999998,Consumer Durables,Motor Vehicles
+TDW,6,1900390550.0,Transportation,Marine Shipping
+SMR,3,4859594333.0,Producer Manufacturing,Electrical Products
+IONS,1,5046934539.0,Health Technology,Pharmaceuticals: Major
+CSGP,9,32298592653.0,Technology Services,Internet Software/Services
+BOOT,9,3295781160.0,Retail Trade,Apparel/Footwear Retail
+LMB,5,1148863050.0,Miscellaneous,Miscellaneous
+NTNX,7,18909037120.0,Technology Services,Packaged Software
+NOG,8,2475498286.0,Energy Minerals,Oil & Gas Production
+IPGP,6,2640678577.0,Electronic Technology,Semiconductors
+AX,4,3692437319.0,Finance,Major Banks
+NFG,10,7171731571.999999,Energy Minerals,Integrated Oil
+NYAX,-1,1554167167.0,Technology Services,Packaged Software
+AMZN,8,2018471649450.0,Retail Trade,Internet Retail
+TLX,-1,6033233118.7818,Health Technology,Biotechnology
+NXT,9,6097068718.0,Electronic Technology,Electronic Equipment/Instruments
+GEV,7,104340229216.00002,Producer Manufacturing,Electrical Products
+OS,7,5280158363.0,Technology Services,Packaged Software
+ESE,7,4161739228.000001,Electronic Technology,Electronic Equipment/Instruments
+CVNA,10,53764707562.0,Retail Trade,Specialty Stores
+AIR,6,1989319420.0000005,Electronic Technology,Aerospace & Defense
+HI,7,1468964227.0,Producer Manufacturing,Industrial Conglomerates
+STEP,-1,5977453936.0,Finance,Investment Managers
+ROG,1,1180033985.0,Process Industries,Chemicals: Specialty
+PAY,7,4274063597.000001,Commercial Services,Miscellaneous Commercial Services
+RGTI,7,2623001862.0,Electronic Technology,Computer Processing Hardware
+PI,7,2751368673.0,Electronic Technology,Semiconductors
+FTI,7,12166040054.999998,Industrial Services,Oilfield Services/Equipment
+CAH,-1,35155389750.00001,Distribution Services,Medical Distributors
+CGON,3,2114394456.0,Health Technology,Biotechnology
+AVDX,5,1711173270.0,Technology Services,Packaged Software
+VNOM,10,9099308407.0,Energy Minerals,Integrated Oil
+EME,9,18463571003.0,Industrial Services,Engineering & Construction
+FORM,4,2232880954.0000005,Electronic Technology,Semiconductors
+AAPG,-1,2184936853.5988703,Health Technology,Pharmaceuticals: Major
+XHG,2,6144709960.0,Finance,Real Estate Development
+FLEX,3,13542692511.0,Electronic Technology,Electronic Production Equipment
+WFRD,8,3091617371.0,Industrial Services,Oilfield Services/Equipment
+RBLX,7,46799495745.0,Technology Services,Packaged Software
+HST,8,10072675773.0,Finance,Real Estate Investment Trusts
+VRE,6,1490339793.0,Finance,Real Estate Investment Trusts
+KNSA,7,2024214619.0,Health Technology,Pharmaceuticals: Major
+WVE,7,1223472399.0000002,Health Technology,Biotechnology
+HRB,9,8310700476.000001,Consumer Services,Other Consumer Services
+GWW,-1,50745230702.0,Distribution Services,Wholesale Distributors
+LAUR,9,3078516567.0,Commercial Services,Miscellaneous Commercial Services
+MUR,6,3012736207.9999995,Energy Minerals,Oil & Gas Production
+ZD,5,1302956087.0,Technology Services,Internet Software/Services
+IHG,5,16961105960.987495,Consumer Services,Hotels/Resorts/Cruise lines
+KC,7,3933193837.59232,Technology Services,Data Processing Services
+PRK,-1,2493007913.0,Finance,Major Banks
+FN,4,7551585659.999999,Electronic Technology,Semiconductors
+OCUL,1,1358717178.0,Health Technology,Pharmaceuticals: Major
+HOG,8,2850126266.0,Consumer Durables,Motor Vehicles
+RES,5,1071943494.0,Industrial Services,Oilfield Services/Equipment
+DEI,2,2379412641.0,Finance,Real Estate Investment Trusts
+SMCI,-1,19532913733.0,Electronic Technology,Computer Processing Hardware
+MGY,3,4092457222.0,Energy Minerals,Oil & Gas Production
+RCL,6,59952382670.0,Consumer Services,Hotels/Resorts/Cruise lines
+TBLA,5,1027259184.0,Technology Services,Internet Software/Services
+DUOL,6,18175497351.000004,Technology Services,Packaged Software
+NN,4,1685492807.0,Technology Services,Packaged Software
+NVT,-1,9283804239.0,Electronic Technology,Electronic Components
+INVH,7,21518326636.0,Finance,Real Estate Investment Trusts
+EH,8,1236289572.0,Technology Services,Packaged Software
+PRKS,1,2465851074.0,Consumer Services,Movies/Entertainment
+ARLO,4,1046447455.0,Electronic Technology,Telecommunications Equipment
+CRAI,5,1130454694.0,Commercial Services,Miscellaneous Commercial Services
+DAN,7,2054924021.0,Producer Manufacturing,Auto Parts: OEM
+AKR,4,2566834126.0,Finance,Real Estate Investment Trusts
+OXY,6,38004806761.0,Energy Minerals,Integrated Oil
+EFSCP,,1936121887.0,Finance,Regional Banks
+TPC,6,1160509900.9999998,Industrial Services,Engineering & Construction
+CRC,1,3209798482.0,Energy Minerals,Integrated Oil
+HQY,9,7607362048.000001,Finance,Investment Managers
+CVI,3,1945267177.0,Energy Minerals,Oil Refining/Marketing
+LEU,9,1211179151.9999998,Non-Energy Minerals,Other Metals/Minerals
+MMYT,-1,11806008994.0,Technology Services,Internet Software/Services
+CBZ,8,3800077404.000001,Commercial Services,Miscellaneous Commercial Services
+UI,5,20253978850.0,Electronic Technology,Telecommunications Equipment
+HEI,5,31387829591.0,Electronic Technology,Aerospace & Defense
+WBTN,6,1201497614.0000002,Technology Services,Internet Software/Services
+FA,4,2510872790.0,Commercial Services,Miscellaneous Commercial Services
+FLR,-1,6011736439.0,Industrial Services,Engineering & Construction
+CLF,8,4178400611.0,Non-Energy Minerals,Steel
+PR,6,9790681980.0,Energy Minerals,Integrated Oil
+COLB,2,4807203830.0,Finance,Regional Banks
+CRGY,4,2194439044.0,Energy Minerals,Integrated Oil
+STR,5,2634670235.0000005,Miscellaneous,Investment Trusts/Mutual Funds
+MTCH,8,7501489817.999999,Technology Services,Internet Software/Services
+AVGO,10,927835551593.0,Electronic Technology,Semiconductors
+ETN,7,118181152202.0,Producer Manufacturing,Electrical Products
+ACA,7,4002051310.0,Producer Manufacturing,Trucks/Construction/Farm Machinery
+NVDA,7,2723284014893.0,Electronic Technology,Semiconductors
+DVN,-1,20046138510.0,Energy Minerals,Integrated Oil
+CWK,3,2220359268.0,Finance,Real Estate Development
+SBUX,9,93196168430.0,Consumer Services,Restaurants
+BTSGU,,3133766175.0,Health Services,Medical/Nursing Services
+AVAV,10,4379846587.0,Electronic Technology,Aerospace & Defense
+SE,8,80890968106.0,Retail Trade,Internet Retail
+IRM,9,27092828783.0,Finance,Real Estate Investment Trusts
+TT,6,87561328180.0,Producer Manufacturing,Industrial Machinery
+STN,,10258044920.695768,Industrial Services,Engineering & Construction
+SXI,8,1723436942.0,Electronic Technology,Electronic Equipment/Instruments
+PSTG,4,15147004655.0,Electronic Technology,Computer Peripherals
+VITL,5,1560530436.9999998,Process Industries,Agricultural Commodities/Milling
+UHAL.B,,11120164535.0,Finance,Finance/Rental/Leasing
+CUK,8,24188546790.848698,Consumer Services,Hotels/Resorts/Cruise lines
+MTDR,10,5069459296.0,Energy Minerals,Integrated Oil
+SATS,6,6596406234.000001,Communications,Specialty Telecommunications
+TBBK,3,2372295313.0000005,Finance,Regional Banks
+GSAT,2,2491135615.0,Communications,Wireless Telecommunications
+OVV,-1,8949955312.0,Energy Minerals,Integrated Oil
+MTSI,,7896375863.0,Electronic Technology,Semiconductors
+CENX,9,1567388454.0,Non-Energy Minerals,Aluminum
+VFC,5,4737212050.0,Consumer Non-Durables,Apparel/Footwear
+REVG,,1729567778.0000002,Consumer Durables,Motor Vehicles
+WTTR,,1044938880.0,Utilities,Water Utilities
+DBD,-1,1707214264.0,Electronic Technology,Electronic Equipment/Instruments
+NOV,,4463772637.0,Industrial Services,Oilfield Services/Equipment
+NPO,2,3216641716.0,Producer Manufacturing,Industrial Machinery
+HR,9,5577329020.0,Finance,Real Estate Investment Trusts
+DGII,3,1026904533.0,Electronic Technology,Telecommunications Equipment
+PNFP,3,7957880079.999999,Finance,Regional Banks
+BST,,1187076800.0,Miscellaneous,Investment Trusts/Mutual Funds
+TNL,3,2984716793.0,Consumer Services,Hotels/Resorts/Cruise lines
+ARHS,4,1130740862.0,Consumer Durables,Home Furnishings
+SMMT,9,18198557947.000004,Health Technology,Biotechnology
+CAVA,8,10932945505.0,Consumer Services,Restaurants
+CTSH,4,37083822938.0,Technology Services,Information Technology Services
+MAR,-1,67177186941.99999,Consumer Services,Hotels/Resorts/Cruise lines
+FLG/PA,7,4889575265.0,Finance,Savings Banks
+SANM,6,4197443835.0,Electronic Technology,Electronic Production Equipment
+PII,4,1951186614.0,Consumer Durables,Recreational Products
+BKR,9,35855241139.0,Industrial Services,Contract Drilling
+BWLP,,1525448936.05029,Transportation,Marine Shipping
+FROG,5,3954661208.0,Technology Services,Packaged Software
+LUV,,16286764054.0,Transportation,Airlines
+HEI.A,1,31387829591.0,Electronic Technology,Aerospace & Defense
+PPBI,7,2018326478.0,Finance,Regional Banks
+VSEC,9,2419339182.0,Industrial Services,Engineering & Construction
+SGRY,1,2875363400.0000005,Health Services,Hospital/Nursing Management
+BV,8,1338910044.0,Commercial Services,Miscellaneous Commercial Services
+ELME,5,1402604160.0,Finance,Real Estate Investment Trusts
+APH,7,95110775569.0,Electronic Technology,Electronic Components
+TIGR,7,1478002037.0,Finance,Investment Banks/Brokers
+GDS,6,4928406393.440881,Technology Services,Data Processing Services
+HCSG,8,1058778577.0,Commercial Services,Miscellaneous Commercial Services
+ACT,1,5536380221.0,Finance,Multi-Line Insurance
+INTA,-1,4401816274.0,Technology Services,Packaged Software
+WLYB,,2325853393.578984,Consumer Services,Publishing: Books/Magazines
+PAR,5,2416081152.9999995,Electronic Technology,Electronic Equipment/Instruments
+AIV,5,1145072818.0,Finance,Real Estate Investment Trusts
+BSTZ,-1,1277583216.0,Miscellaneous,Investment Trusts/Mutual Funds
+GDDY,5,26570276898.000004,Technology Services,Data Processing Services
+SF/PC,4,8911330300.0,Finance,Investment Managers
+FANG,10,39651204252.00001,Energy Minerals,Oil & Gas Production
+MTX,2,1671967899.0,Process Industries,Chemicals: Specialty
+MBIN,5,1409485983.9999998,Finance,Regional Banks
+MKSI,-1,4831240347.0,Producer Manufacturing,Industrial Machinery
+SHOP,,125610552008.64706,Technology Services,Information Technology Services
+BTSG,6,3133766175.0,Health Services,Medical/Nursing Services
+PENN,6,2344252008.0,Consumer Services,Casinos/Gaming
+M,6,3248176416.0,Retail Trade,Department Stores
+ULS,9,11688467713.0,Technology Services,Packaged Software
+DOCS,9,10896115758.0,Technology Services,Packaged Software
+SYM,5,12962271667.999998,Producer Manufacturing,Industrial Machinery
+VSCO,4,1532109807.0,Retail Trade,Apparel/Footwear Retail
+AMPL,4,1236846057.0,Technology Services,Packaged Software
+LOB,-1,1216303967.9999998,Finance,Regional Banks
+BANR,7,2151866947.0,Finance,Regional Banks
+DIOD,6,1820806618.0,Electronic Technology,Semiconductors
+FLS,5,6034433192.0,Producer Manufacturing,Industrial Machinery
+HUBS,9,32847672309.0,Technology Services,Packaged Software
+SLGN,6,5639610383.999999,Process Industries,Containers/Packaging
+CHRD,-1,5477791341.0,Energy Minerals,Integrated Oil
+BRX,5,7780049040.0,Finance,Real Estate Investment Trusts
+VNO,6,6910133423.0,Finance,Real Estate Investment Trusts
+BLFS,8,1168500018.0,Health Technology,Medical Specialties
+WSC,10,4690288282.0,Finance,Finance/Rental/Leasing
+TFSL,1,3712168248.000001,Finance,Savings Banks
+FBNC,5,1706092851.9999998,Finance,Regional Banks
+VSH,4,1795856043.9999998,Electronic Technology,Electronic Production Equipment
+AFYA,,1747938099.0,Consumer Services,Other Consumer Services
+CE,7,5073640330.0,Process Industries,Chemicals: Specialty
+ALGN,6,12939193622.0,Health Technology,Medical Specialties
+NEOG,6,1117747106.0,Health Technology,Medical Specialties
+EIX,7,20992704801.0,Utilities,Electric Utilities
+USB/PH,5,63099425171.0,Finance,Major Banks
+PFS,-1,2178060094.9999995,Finance,Savings Banks
+RDN,4,4598137842.000001,Finance,Specialty Insurance
+KRG,9,4851257430.0,Finance,Real Estate Investment Trusts
+STLA,4,35445702962.24325,Consumer Durables,Motor Vehicles
+TR,6,2252820453.0,Consumer Non-Durables,Food: Specialty/Candy
+AM,6,8084424833.000001,Industrial Services,Oil & Gas Pipelines
+TRIP,7,1781444032.0,Consumer Services,Other Consumer Services
+BSM,5,3036161838.0,Miscellaneous,Investment Trusts/Mutual Funds
+PAX,4,1653616644.0,Finance,Investment Managers
+ESS,6,18315651554.0,Finance,Real Estate Investment Trusts
+FITBO,,24111690774.0,Finance,Regional Banks
+CGNX,-1,4711877456.999999,Electronic Technology,Electronic Equipment/Instruments
+RDDT,10,21489627875.0,Technology Services,Internet Software/Services
+HRI,1,3177755163.0,Finance,Finance/Rental/Leasing
+VRTS,2,1084510134.0000002,Finance,Investment Managers
+SPXC,7,6393256557.0,Producer Manufacturing,Building Products
+LII,2,19765760114.0,Producer Manufacturing,Industrial Machinery
+KARO,8,1340787323.0,Technology Services,Packaged Software
+DOCN,5,2890310056.0,Technology Services,Packaged Software
+TFC/PI,4,50535107911.0,Finance,Regional Banks
+VMI,,5995401716.000001,Producer Manufacturing,Metal Fabrication
+XMTR,6,1313871288.0000002,Producer Manufacturing,Metal Fabrication
+EQT,9,30146804545.0,Energy Minerals,Integrated Oil
+ASB,,3725741617.000001,Finance,Major Banks
+SLG/PI,5,4042193485.0,Finance,Real Estate Investment Trusts
+IEP,5,4605307270.0,Energy Minerals,Oil Refining/Marketing
+SONO,8,1116995406.9999998,Consumer Durables,Electronics/Appliances
+ACVA,6,2550742553.0,Retail Trade,Internet Retail
+BWXT,6,10155780062.0,Electronic Technology,Aerospace & Defense
+SITE,5,5238684798.999999,Producer Manufacturing,Trucks/Construction/Farm Machinery
+PL,8,1012540924.0,Technology Services,Packaged Software
+WAL,5,7851499492.0,Finance,Regional Banks
+CMC,,5124576123.0,Non-Energy Minerals,Steel
+UTI,10,1553399787.9999998,Commercial Services,Miscellaneous Commercial Services
+UFPT,4,1636390221.0000002,Process Industries,Industrial Specialties
+PX,7,1253204578.0,Finance,Investment Managers
+SAIL,7,9723366146.999998,Technology Services,Packaged Software
+ACHR,10,4655374827.0,Electronic Technology,Aerospace & Defense
+SNV,-1,6139342770.0,Finance,Regional Banks
+TFIN,4,1273565523.0,Finance,Savings Banks
+TSEM,9,4045164184.000001,Electronic Technology,Semiconductors
+OUT,5,2572182962.0,Finance,Real Estate Investment Trusts
+CDRE,4,1206369862.0,Electronic Technology,Aerospace & Defense
+HLN,4,46517081485.12879,Health Technology,Pharmaceuticals: Major
+AMTD,2,1086917143.9594,Finance,Investment Banks/Brokers
+FWONA,8,28512484005.0,Consumer Services,Broadcasting
+ALIT,10,2820015342.0,Technology Services,Information Technology Services
+STNG,5,1914299312.0,Transportation,Marine Shipping
+SAH,7,2098110208.0,Retail Trade,Specialty Stores
+FIBK,2,2750829259.0000005,Finance,Regional Banks
+SLG,5,4042193485.0,Finance,Real Estate Investment Trusts
+INVX,5,1065494039.0,Industrial Services,Oilfield Services/Equipment
+SNDR,6,3836160864.0,Transportation,Trucking
+UDR,2,14108343886.0,Finance,Real Estate Investment Trusts
+COP,-1,114596595917.0,Energy Minerals,Oil & Gas Production
+DASH,9,83140236550.0,Transportation,Air Freight/Couriers
+FBK,10,2018080383.0,Finance,Major Banks
+ABNB,5,78212842235.0,Consumer Services,Other Consumer Services
+VIRT,7,6140174118.0,Finance,Investment Banks/Brokers
+ICE,10,97998301444.00002,Finance,Investment Banks/Brokers
+EWTX,9,1753746930.0000002,Health Technology,Biotechnology
+ATMU,8,2914729863.0000005,Producer Manufacturing,Auto Parts: OEM
+JOE,2,2505888566.0000005,Finance,Real Estate Development
+FLYW,4,1166367939.0,Finance,Regional Banks
+CVE,8,21828839669.696205,Energy Minerals,Integrated Oil
+CHX,1,4696956025.0,Process Industries,Chemicals: Specialty
+F,4,40481256114.0,Consumer Durables,Motor Vehicles
+DAVE,10,1286409099.0,Finance,Major Banks
+DYN,-1,1362469012.9999998,Health Technology,Biotechnology
+RBCAA,5,1196489885.0,Finance,Regional Banks
+IDYA,6,1791890347.0,Health Technology,Pharmaceuticals: Major
+ESLT,7,18076710627.0,Electronic Technology,Aerospace & Defense
+DAR,9,5176120376.999999,Consumer Non-Durables,Food: Specialty/Candy
+SIMO,6,1681977576.0,Electronic Technology,Semiconductors
+DBRG/PH,2,1644781009.0,Finance,Investment Managers
+MASI,4,8842862978.999998,Health Technology,Medical Specialties
+CTS,2,1155253897.9999998,Electronic Technology,Electronic Production Equipment
+KN,6,1391600464.0,Electronic Technology,Electronic Components
+TNK,9,1487717054.0,Transportation,Marine Shipping
+ARIS,-1,1525216658.0,Utilities,Water Utilities
+SLAB,7,3358678016.0,Electronic Technology,Semiconductors
+QQQX,,1181608560.0,Miscellaneous,Investment Trusts/Mutual Funds
+THC,6,13495261337.0,Health Services,Hospital/Nursing Management
+KLC,7,1470358811.0,Consumer Services,Other Consumer Services
+IQ,2,1800513787.0,Technology Services,Internet Software/Services
+PPTA,-1,1066797314.0,Non-Energy Minerals,Precious Metals
+SFBS,3,3952028915.000001,Finance,Regional Banks
+VERA,5,1514578280.0,Health Technology,Biotechnology
+NOVT,5,4344148814.0,Electronic Technology,Electronic Equipment/Instruments
+DBRG/PI,2,1644781009.0,Finance,Investment Managers
+ACM,6,13302137562.000002,Industrial Services,Engineering & Construction
+BGM,6,1647479455.0,Health Technology,Pharmaceuticals: Major
+TTE,5,121141270339.93266,Energy Minerals,Integrated Oil
+NVST,,2769101948.0,Health Technology,Medical Specialties
+DEC,10,1003514602.3693272,Energy Minerals,Integrated Oil
+EXG,,2514608060.0,Miscellaneous,Investment Trusts/Mutual Funds
+CLH,,11647133990.0,Industrial Services,Environmental Services
+MTG,5,6009541452.999999,Finance,Property/Casualty Insurance
+EPR/PC,4,3775845088.0,Finance,Real Estate Investment Trusts
+CF,5,13254119627.0,Process Industries,Chemicals: Agricultural
+IRTC,6,3466226452.0,Health Technology,Medical Specialties
+DGNX,-1,2074037422.6,Commercial Services,Miscellaneous Commercial Services
+CCL,7,24231372097.0,Consumer Services,Hotels/Resorts/Cruise lines
+TRMK,3,2069283541.0,Finance,Regional Banks
+RBC,3,10494516563.0,Producer Manufacturing,Metal Fabrication
+GOOGL,8,1965509393723.0,Technology Services,Internet Software/Services
+BOH,1,2668192031.0,Finance,Regional Banks
+TAC,5,2695997649.273744,Utilities,Electric Utilities
+CW,2,13202441511.000002,Electronic Technology,Aerospace & Defense
+BKU,7,2499540999.0,Finance,Major Banks
+SHO,-1,1704154593.0,Finance,Real Estate Investment Trusts
+SRAD,10,7298035359.999999,Technology Services,Packaged Software
+WWD,6,11307464315.999998,Producer Manufacturing,Industrial Machinery
+NSP,3,2484103112.0,Commercial Services,Miscellaneous Commercial Services
+SNEX,6,4328536909.0,Finance,Investment Banks/Brokers
+AUB,9,3717361619.0,Finance,Regional Banks
+EWBC,-1,11970812569.0,Finance,Regional Banks
+BMI,6,6604020352.0,Producer Manufacturing,Industrial Machinery
+KRMN,5,4797937555.0,Electronic Technology,Aerospace & Defense
+ARW,1,5864630207.000001,Distribution Services,Electronics Distributors
+HBANM,,21298586091.0,Finance,Major Banks
+BP,7,72530600143.6471,Energy Minerals,Integrated Oil
+AVPT,9,3367715705.0,Technology Services,Data Processing Services
+KVUE,8,45971838488.0,Consumer Non-Durables,Household/Personal Care
+DCOMP,,1129410119.0,Finance,Regional Banks
+AEO,8,1844175810.0,Retail Trade,Apparel/Footwear Retail
+CAT,4,150051538364.0,Producer Manufacturing,Trucks/Construction/Farm Machinery
+MAA,-1,18946122591.0,Finance,Real Estate Investment Trusts
+WAFDP,,2309698125.0,Finance,Major Banks
+NET,9,42554604900.0,Technology Services,Information Technology Services
+RKLB,7,10206885154.0,Electronic Technology,Aerospace & Defense
+LNTH,10,7253433345.999998,Health Technology,Medical Specialties
+SWX,4,5266450759.0,Utilities,Gas Distributors
+EOS,-1,1145060060.0,Miscellaneous,Investment Trusts/Mutual Funds
+FHN/PF,,9267960348.0,Finance,Regional Banks
+DORM,2,3514172478.0,Consumer Durables,Automotive Aftermarket
+SNDK,6,4730817254.0,Electronic Technology,Computer Peripherals
+TDG,1,80435950683.0,Electronic Technology,Aerospace & Defense
+DDS,7,5522846778.0,Retail Trade,Department Stores
+MTRN,6,1753601284.9999998,Electronic Technology,Electronic Equipment/Instruments
+BHVN,5,2291359383.0,Health Technology,Pharmaceuticals: Major
+BUSE,,1898038982.0,Finance,Regional Banks
+FUN,4,3530454921.0,Consumer Services,Movies/Entertainment
+SWKS,7,10017686617.999998,Electronic Technology,Semiconductors
+SLB,8,45891855379.00001,Industrial Services,Contract Drilling
+CADE,,5425342012.0,Finance,Major Banks
+OZK,6,4902526858.0,Finance,Regional Banks
+URI,7,41638382602.0,Finance,Finance/Rental/Leasing
+IBKR,6,73671736459.0,Finance,Investment Banks/Brokers
+KFY,3,3232515502.0000005,Commercial Services,Personnel Services
+STEL,2,1303300776.9999998,Finance,Major Banks
+MPWR,6,28804450226.000004,Electronic Technology,Semiconductors
+NCLH,10,7208105539.999999,Consumer Services,Hotels/Resorts/Cruise lines
+KSPI,5,17076390791.158436,Finance,Finance/Rental/Leasing
+IAC,9,2840057698.0000005,Technology Services,Internet Software/Services
+IHS,10,1657201444.0,Industrial Services,Engineering & Construction
+KRC,-1,3816641827.0,Finance,Real Estate Investment Trusts
+RLJ,9,1084119849.0,Finance,Real Estate Investment Trusts
+TCBK,4,1287083035.0,Finance,Regional Banks
+COMP,8,4061067617.0,Technology Services,Packaged Software
+DNN,5,1280914139.9441624,Non-Energy Minerals,Other Metals/Minerals
+HBANP,,21298586091.0,Finance,Major Banks
+IBTA,3,1460922194.0,Technology Services,Packaged Software
+PLXS,1,3357306032.0,Electronic Technology,Electronic Production Equipment
+FWONK,2,28512484005.0,Consumer Services,Broadcasting
+GFF,9,3282903852.0,Producer Manufacturing,Building Products
+XHR,5,1098554897.0,Finance,Real Estate Investment Trusts
+VRDN,-1,1121041814.0,Health Technology,Pharmaceuticals: Major
+ALG,2,2042586487.0,Producer Manufacturing,Trucks/Construction/Farm Machinery
+UAA,2,2427067763.0,Consumer Non-Durables,Apparel/Footwear
+RRX,4,7118618474.0,Producer Manufacturing,Electrical Products
+MRP,-1,4214828890.39,Finance,Real Estate Development
+LXP,7,2365824463.0,Finance,Real Estate Investment Trusts
+BPOP,-1,6708546473.0,Finance,Regional Banks
+SBGI,10,1015354732.0,Consumer Services,Broadcasting
+WRD,6,1812162916.0,Technology Services,Packaged Software
+DNOW,5,1750967948.0,Distribution Services,Wholesale Distributors
+ZWS,,5792925304.999999,Producer Manufacturing,Industrial Machinery
+PEB/PH,6,1084782453.0,Finance,Real Estate Investment Trusts
+FULT,,3081069523.0000005,Finance,Major Banks
+TTC,8,6909544726.0,Producer Manufacturing,Trucks/Construction/Farm Machinery
+MOG.A,2,5350071882.0,Electronic Technology,Aerospace & Defense
+SYF/PA,8,19911840016.0,Finance,Finance/Rental/Leasing
+ETNB,7,1186851497.0,Health Technology,Pharmaceuticals: Major
+CSQ,-1,2580210490.0,Miscellaneous,Investment Trusts/Mutual Funds
+THO,5,3905674085.0,Consumer Durables,Recreational Products
+SPRY,9,1389376415.0,Health Technology,Pharmaceuticals: Major
+AIZN,,9747823398.0,Finance,Property/Casualty Insurance
+CG,2,14132126664.999998,Finance,Investment Managers
+HBANL,,21298586091.0,Finance,Major Banks
+CTRA,4,19018352219.0,Energy Minerals,Integrated Oil
+TPL,6,30021134887.0,Miscellaneous,Investment Trusts/Mutual Funds
+AMH,6,14025369410.0,Finance,Real Estate Investment Trusts
+LAZ,1,3543826918.0,Finance,Investment Banks/Brokers
+WTS,2,7027843993.000001,Producer Manufacturing,Industrial Machinery
+DRVN,5,2749956974.0,Consumer Services,Other Consumer Services
+UE,3,2302473073.0,Finance,Real Estate Investment Trusts
+LPLA,10,25913890753.0,Finance,Investment Banks/Brokers
+ADX,,2271471930.0,Miscellaneous,Investment Trusts/Mutual Funds
+HRMY,9,1713566546.0,Health Technology,Pharmaceuticals: Major
+LCII,6,1970969254.0000005,Producer Manufacturing,Miscellaneous Manufacturing
+CMA,3,7156742413.0,Finance,Major Banks
+VNT,6,4780358194.0,Transportation,Other Transportation
+QSR,8,29667983872.915977,Consumer Services,Restaurants
+FRT,6,8229360640.000001,Finance,Real Estate Investment Trusts
+BURL,9,14361679504.0,Retail Trade,Apparel/Footwear Retail
+WKC,1,1439464813.0,Distribution Services,Wholesale Distributors
+ALB,5,6979031998.000001,Process Industries,Chemicals: Specialty
+KEY/PK,7,16424801854.000002,Finance,Major Banks
+KMX,4,10003869540.0,Retail Trade,Specialty Stores
+WTFC,6,7536217890.999999,Finance,Regional Banks
+BZ,-1,6830162977.426041,Technology Services,Internet Software/Services
+FUTU,6,4156181229.0,Finance,Investment Banks/Brokers
+FL,3,1180282925.0,Retail Trade,Apparel/Footwear Retail
+CLM,,1774354140.0,Miscellaneous,Investment Trusts/Mutual Funds
+DAY,5,9277339352.000002,Technology Services,Packaged Software
+CR,4,9372314931.000002,Electronic Technology,Aerospace & Defense
+AMH/PG,-1,14025369410.0,Finance,Real Estate Investment Trusts
+VLY,9,4877845096.0,Finance,Major Banks
+BIP/PA,8,19626057276.0,Utilities,Alternative Power Generation
+BX,7,161801291141.0,Finance,Investment Managers
+ALVO,3,2396337232.0,Health Technology,Biotechnology
+AROC,7,4182599145.0,Industrial Services,Oilfield Services/Equipment
+GRND,-1,4357819828.0,Technology Services,Internet Software/Services
+IDT,6,1283215057.0,Communications,Major Telecommunications
+AXON,9,48351485406.0,Electronic Technology,Aerospace & Defense
+COCO,8,1898872660.0,Consumer Non-Durables,Food: Major Diversified
+CURB,5,2438885062.0,Finance,Real Estate Investment Trusts
+HUBG,3,1959908121.0,Transportation,Air Freight/Couriers
+ESGRO,-1,4987167550.0,Finance,Multi-Line Insurance
+IIPR,5,1557967538.0,Finance,Real Estate Investment Trusts
+ALSN,4,7986553545.0,Producer Manufacturing,Auto Parts: OEM
+FCF,,1579165621.0,Finance,Regional Banks
+AWI,5,6375490609.000001,Producer Manufacturing,Miscellaneous Manufacturing
+PBH,5,4073496584.0,Health Technology,Pharmaceuticals: Major
+LC,10,1129436349.0,Finance,Major Banks
+EOG,7,61596475696.0,Energy Minerals,Integrated Oil
+FNB,8,4762863892.0,Finance,Major Banks
+GPCR,-1,1565644596.0,Health Technology,Biotechnology
+MWA,7,4159283920.0,Producer Manufacturing,Industrial Machinery
+UPWK,9,1770872037.0000002,Commercial Services,Personnel Services
+TWO/PB,4,1224375393.0,Finance,Real Estate Investment Trusts
+TX,7,5734147083.0,Non-Energy Minerals,Steel
+NAVI,1,1267412169.0,Finance,Finance/Rental/Leasing
+INDB,9,2543271151.9999995,Finance,Regional Banks
+TWLO,6,15000535234.999998,Technology Services,Packaged Software
+ATUS,6,1173993902.0,Communications,Major Telecommunications
+FG,6,4748075667.0,Finance,Multi-Line Insurance
+CSWI,2,5307480786.000001,Process Industries,Industrial Specialties
+EXR,-1,31468775685.0,Finance,Real Estate Investment Trusts
+VOYA/PB,3,5676445763.0,Finance,Life/Health Insurance
+HWC,7,4539799476.0,Finance,Regional Banks
+CHRW,5,10673534556.0,Transportation,Air Freight/Couriers
+OI,5,1981490255.0,Process Industries,Containers/Packaging
+ARM,8,121631601608.0,Electronic Technology,Semiconductors
+GOOG,-1,1965509393723.0,Technology Services,Internet Software/Services
+WAB,2,31986932826.0,Producer Manufacturing,Trucks/Construction/Farm Machinery
+CGBDL,,1050531997.0,Miscellaneous,Investment Trusts/Mutual Funds
+TPB,10,1102943010.0,Consumer Non-Durables,Tobacco
+HPE,7,21555818834.000004,Electronic Technology,Computer Processing Hardware
+BML/PH,,302555444187.0,Finance,Major Banks
+MDU,-1,3543102636.0,Utilities,Gas Distributors
+KRP,3,1474831770.9999998,Miscellaneous,Investment Trusts/Mutual Funds
+SU,10,44165740001.85553,Energy Minerals,Integrated Oil
+E,8,43629334142.47149,Energy Minerals,Oil Refining/Marketing
+MS,7,188317022230.0,Finance,Investment Managers
+AKO.B,,3502347073.1539497,Consumer Non-Durables,Beverages: Non-Alcoholic
+APO/PA,-1,78805834711.0,Finance,Investment Managers
+BKE,5,1798752995.0,Retail Trade,Apparel/Footwear Retail
+CHEF,4,2344387034.0,Distribution Services,Food Distributors
+IVT,4,2185859621.0,Finance,Real Estate Investment Trusts
+GS,5,172125038562.0,Finance,Investment Banks/Brokers
+CDW,8,21398915114.0,Technology Services,Information Technology Services
+TWO/PC,-1,1224375393.0,Finance,Real Estate Investment Trusts
+AXS,10,7662392199.0,Finance,Multi-Line Insurance
+FND,5,7774501180.999999,Retail Trade,Home Improvement Chains
+BEKE,6,24979794102.605797,Finance,Real Estate Development
+CVBF,5,2607968902.9999995,Finance,Regional Banks
+SKYW,9,3649335660.0,Transportation,Airlines
+ATKR,-1,2221812939.0,Producer Manufacturing,Electrical Products
+ESI,4,5005283940.999999,Process Industries,Chemicals: Major Diversified
+KKR/PD,4,101695803494.0,Finance,Investment Managers
+WFC,6,233682845795.0,Finance,Major Banks
+ALX,4,1065993631.0,Finance,Real Estate Investment Trusts
+ESRT,4,1204654597.0,Finance,Real Estate Investment Trusts
+HLI,3,11498480183.0,Finance,Investment Banks/Brokers
+FRT/PC,6,8229360640.000001,Finance,Real Estate Investment Trusts
+NLY/PI,8,11604520374.0,Finance,Real Estate Investment Trusts
+LZB,4,1649076567.0,Consumer Durables,Home Furnishings
+GAM,-1,1198247688.0,Miscellaneous,Investment Trusts/Mutual Funds
+FHN,8,9267960348.0,Finance,Regional Banks
+SHAK,7,3784940706.0,Consumer Services,Restaurants
+OMF,6,5676609592.0,Finance,Finance/Rental/Leasing
+CBRE,2,36821911108.99999,Finance,Real Estate Development
+DXC,1,2840651966.9999995,Technology Services,Data Processing Services
+JHX,-1,10196853485.7549,Non-Energy Minerals,Construction Materials
+NTB,8,1743438171.0000002,Finance,Regional Banks
+POOL,6,11141252840.0,Distribution Services,Wholesale Distributors
+FR,5,6564642663.0,Finance,Real Estate Investment Trusts
+UFPI,6,6078184021.0,Non-Energy Minerals,Forest Products
+BXMX,,1357269950.0,Miscellaneous,Investment Trusts/Mutual Funds
+ENS,4,3451569689.0000005,Producer Manufacturing,Electrical Products
+CFG,1,16300722808.0,Finance,Major Banks
+NMAX,,2994690820.16,Consumer Services,Broadcasting
+PHR,8,1482828874.0,Technology Services,Packaged Software
+CRBG,9,16543739524.000002,Finance,Investment Managers
+ARWR,4,1927935835.0,Health Technology,Biotechnology
+CPA,7,3857727026.0,Transportation,Airlines
+WBS,5,8046477362.0,Finance,Savings Banks
+UHAL,5,11120164535.0,Finance,Finance/Rental/Leasing
+MKTX,6,8331994355.000001,Finance,Investment Banks/Brokers
+PCTY,-1,10851060321.999998,Technology Services,Packaged Software
+MBINN,,1409485984.0,Finance,Regional Banks
+INGM,7,4219815454.0,Technology Services,Information Technology Services
+MU,9,86913534385.99998,Electronic Technology,Semiconductors
+ATAT,10,3413193103.0,Consumer Services,Hotels/Resorts/Cruise lines
+AGNCM,,8065235441.0,Finance,Real Estate Investment Trusts
+CMS/PC,-1,21827060314.0,Utilities,Electric Utilities
+TTAM,-1,2464926223.9,Non-Energy Minerals,Construction Materials
+FCX,6,52292048892.0,Non-Energy Minerals,Other Metals/Minerals
+SBCF,7,2051322474.0,Finance,Regional Banks
+NEU,5,5866187083.0,Process Industries,Chemicals: Specialty
+BHLB,5,1163598910.0,Finance,Regional Banks
+ARE,6,12700842984.0,Finance,Real Estate Investment Trusts
+HOMB,5,5567361521.0,Finance,Regional Banks
+AMRX,4,2425578645.0,Health Technology,Pharmaceuticals: Major
+CENT,3,2002214439.0,Consumer Non-Durables,Consumer Sundries
+PLUS,1,1677100627.0,Technology Services,Packaged Software
+QLYS,5,4617652020.999999,Technology Services,Packaged Software
+LKFN,4,1437575841.0,Finance,Regional Banks
+LEG,4,1311741445.0,Consumer Durables,Home Furnishings
+LNN,6,1416865545.0000002,Producer Manufacturing,Trucks/Construction/Farm Machinery
+GBX,4,1345349969.0,Producer Manufacturing,Trucks/Construction/Farm Machinery
+IR,5,30718974262.0,Producer Manufacturing,Industrial Machinery
+APO,4,78805834710.99998,Finance,Investment Managers
+ACIW,8,5669946970.0,Technology Services,Packaged Software
+GE,10,217126975601.0,Electronic Technology,Aerospace & Defense
+WOR,7,2553266129.0,Producer Manufacturing,Industrial Machinery
+BANF,4,3956743071.0,Finance,Regional Banks
+SG,6,2315544168.0,Consumer Services,Restaurants
+PRG,8,1074627293.0,Finance,Finance/Rental/Leasing
+IMO,2,34650693337.73432,Energy Minerals,Integrated Oil
+ETG,,1434370840.0,Miscellaneous,Investment Trusts/Mutual Funds
+NTRS,3,18469492711.0,Finance,Investment Managers
+KEN,7,1599447922.0000002,Utilities,Electric Utilities
+USFD,7,15290220246.0,Distribution Services,Food Distributors
+TCBIO,,3155857205.0,Finance,Major Banks
+SFNC,5,2373570010.0,Finance,Major Banks
+DBX,9,8303447032.0,Technology Services,Data Processing Services
+RTX,9,170213870313.99997,Electronic Technology,Aerospace & Defense
+QBTS,7,2033632773.0,Electronic Technology,Computer Processing Hardware
+FINV,7,2023468599.0,Finance,Finance/Rental/Leasing
+KEY,7,16424801854.000002,Finance,Major Banks
+GRFS,7,5763729964.75333,Health Technology,Pharmaceuticals: Major
+PK,3,2026716222.0,Finance,Real Estate Investment Trusts
+SSB,9,8884609450.0,Finance,Regional Banks
+DT,-1,14201165326.0,Technology Services,Packaged Software
+PEB,6,1084782453.0,Finance,Real Estate Investment Trusts
+MATX,7,3617014466.0,Transportation,Marine Shipping
+EPAM,9,8972948999.0,Technology Services,Information Technology Services
+GPOR,6,3115238380.0,Energy Minerals,Oil & Gas Production
+IOT,6,22801278737.0,Technology Services,Packaged Software
+RQI,-1,1657534230.0,Miscellaneous,Investment Trusts/Mutual Funds
+CVCO,4,3996076949.0,Consumer Durables,Homebuilding
+ATGE,7,3996278819.000001,Consumer Services,Other Consumer Services
+LIF,5,3271866321.9999995,Technology Services,Packaged Software
+UCB,,3331334245.0,Finance,Regional Banks
+CALX,7,2677724677.0,Electronic Technology,Telecommunications Equipment
+NAD,,2660817000.0,Miscellaneous,Investment Trusts/Mutual Funds
+WERN,6,1541927423.0000002,Transportation,Trucking
+SEMR,5,1536861375.0,Technology Services,Packaged Software
+BFC,7,1100147208.9999998,Finance,Regional Banks
+HCXY,,3124238226.0,Finance,Investment Managers
+AKO.A,6,3502347073.1539497,Consumer Non-Durables,Beverages: Non-Alcoholic
+BLD,5,8732356385.0,Industrial Services,Engineering & Construction
+NXE,7,3004787363.9013705,Non-Energy Minerals,Other Metals/Minerals
+NTCT,4,1522634355.0,Technology Services,Packaged Software
+SPG,-1,51830293517.0,Finance,Real Estate Investment Trusts
+MNSO,7,5627969047.33637,Retail Trade,Specialty Stores
+USA,,1817079420.0,Miscellaneous,Investment Trusts/Mutual Funds
+SNX,9,9385770995.999998,Distribution Services,Electronics Distributors
+BRDG,7,3406905063.0000005,Finance,Investment Managers
+PACS,1,1508325542.9999998,Health Services,Hospital/Nursing Management
+SF,5,8911330300.0,Finance,Investment Managers
+STEW,,1669553800.0,Miscellaneous,Investment Trusts/Mutual Funds
+ALEX,9,1260818119.0,Finance,Real Estate Investment Trusts
+TFINP,,1273565523.0,Finance,Savings Banks
+JPM,10,687093964162.9999,Finance,Major Banks
+CNO/PA,-1,3722624825.0,Finance,Multi-Line Insurance
+MSGE,7,1553843928.0,Consumer Services,Movies/Entertainment
+BABA,8,289264852066.21857,Retail Trade,Internet Retail
+JEF,2,9727032053.0,Finance,Investment Banks/Brokers
+FBP,7,3233159224.9999995,Finance,Regional Banks
+PBA,7,22381935864.395016,Industrial Services,Oil & Gas Pipelines
+JLL,6,10903862044.0,Finance,Real Estate Development
+EVH,6,1168117315.0,Commercial Services,Miscellaneous Commercial Services
+NGVT,6,1212698861.9999998,Process Industries,Chemicals: Major Diversified
+LBTYB,3,3858882072.0,Communications,Major Telecommunications
+BLKB,1,2963946544.9999995,Technology Services,Packaged Software
+PCG,7,36635410094.0,Utilities,Electric Utilities
+CBSH,3,8217401508.000001,Finance,Regional Banks
+CPT,7,16243630655.0,Finance,Real Estate Investment Trusts
+SKWD,9,2160512517.0,Finance,Multi-Line Insurance
+APPN,2,2319896027.0,Technology Services,Packaged Software
+GLW,8,38366472008.0,Electronic Technology,Electronic Components
+CRH,-1,65258711280.0,Non-Energy Minerals,Construction Materials
+SYNA,6,2200719005.9999995,Electronic Technology,Semiconductors
+SIG,4,2566454971.9999995,Retail Trade,Specialty Stores
+R,-1,5742235980.0,Transportation,Air Freight/Couriers
+ACLX,8,3608913497.0,Health Technology,Biotechnology
+SOBO,9,5186775814.598841,Industrial Services,Oil & Gas Pipelines
+INSM,8,13207406328.999998,Health Technology,Pharmaceuticals: Major
+PRM,4,1520486403.0000002,Process Industries,Chemicals: Major Diversified
+PTC,6,18811381761.0,Technology Services,Packaged Software
+PLSE,-1,1155091084.0,Health Technology,Medical Specialties
+TCBI,7,3155857204.9999995,Finance,Major Banks
+BMO,9,70194507367.46994,Finance,Major Banks
+CBU,6,2909713716.0000005,Finance,Major Banks
+CRI,3,1214950385.0,Retail Trade,Apparel/Footwear Retail
+WSM,6,19245249787.0,Retail Trade,Specialty Stores
+ASTH,5,1762919497.0,Health Services,Services to the Health Industry
+ETY,,2199417480.0,Miscellaneous,Investment Trusts/Mutual Funds
+CATY,5,2943679604.0,Finance,Regional Banks
+BXP,-1,10177023700.0,Finance,Real Estate Investment Trusts
+BLX,6,1355093542.9999998,Finance,Major Banks
+BY,3,1190796261.0,Finance,Regional Banks
+UNFI,9,1630520553.0,Distribution Services,Food Distributors
+PLD,4,98037021519.0,Finance,Real Estate Investment Trusts
+VECO,3,1092682364.0,Electronic Technology,Electronic Production Equipment
+RRC,-1,8177681662.0,Energy Minerals,Oil & Gas Production
+UGI,10,7103865962.0,Distribution Services,Wholesale Distributors
+PAYO,9,2569022868.0,Commercial Services,Miscellaneous Commercial Services
+PBR.A,,69974549995.26231,Energy Minerals,Integrated Oil
+AGNCP,,8065235441.0,Finance,Real Estate Investment Trusts
+GDV,-1,2113655290.0,Miscellaneous,Investment Trusts/Mutual Funds
+ETV,-1,1529490500.0,Miscellaneous,Investment Trusts/Mutual Funds
+ZION,2,6691995825.0,Finance,Major Banks
+CFG/PE,1,16300722808.0,Finance,Major Banks
+RNST,2,3068924191.0,Finance,Regional Banks
+TY,-1,1577043662.0,Miscellaneous,Investment Trusts/Mutual Funds
+PH,6,78562007702.0,Electronic Technology,Electronic Equipment/Instruments
+CUZ,8,4662861726.0,Finance,Real Estate Investment Trusts
+DLR,9,54512884156.0,Finance,Real Estate Investment Trusts
+REZI,3,2512516482.0,Distribution Services,Electronics Distributors
+SF/PD,5,8911330300.0,Finance,Investment Managers
+SPNT,7,1965387723.0,Finance,Property/Casualty Insurance
+ONBPP,,6609149890.0,Finance,Major Banks
+GEO,9,4505060037.0,Commercial Services,Miscellaneous Commercial Services
+D,8,46726961522.99999,Utilities,Electric Utilities
+DX/PC,9,1283990163.0,Finance,Real Estate Investment Trusts
+CAMT,10,3003763623.0,Electronic Technology,Electronic Components
+BEP/PA,10,6610105440.2706,Utilities,Electric Utilities
+SNV/PE,8,6139342770.0,Finance,Regional Banks
+RBRK,-1,13495158114.000002,Technology Services,Information Technology Services
+PLAB,4,1170806710.0,Electronic Technology,Electronic Production Equipment
+SKY,1,4995035668.000001,Consumer Durables,Homebuilding
+FFBC,9,2223742055.0,Finance,Regional Banks
+ZI,1,2920524196.0,Technology Services,Packaged Software
+DRH,5,1552297778.0,Finance,Real Estate Investment Trusts
+LECO,-1,9916981467.0,Producer Manufacturing,Industrial Machinery
+KYMR,4,2243819904.0000005,Health Technology,Biotechnology
+VBTX,7,1278396207.9999998,Finance,Regional Banks
+RYAAY,9,25019899134.63661,Transportation,Airlines
+WSFS,3,3043236463.0000005,Finance,Savings Banks
+PBI,8,1601509285.0,Technology Services,Packaged Software
+AAL,-1,6614908485.0,Transportation,Airlines
+HOPE,5,1285171454.0,Finance,Major Banks
+CNQ,7,60710317060.81801,Energy Minerals,Integrated Oil
+AXP,6,188136140381.0,Finance,Finance/Rental/Leasing
+CCJ,2,19811053819.810474,Non-Energy Minerals,Other Metals/Minerals
+LCID,6,7713580159.0,Consumer Durables,Motor Vehicles
+LOGI,-1,11347697161.092358,Electronic Technology,Computer Peripherals
+TTWO,8,41506492745.00001,Technology Services,Packaged Software
+RVT,-1,1621764760.0,Miscellaneous,Investment Trusts/Mutual Funds
+FRME,8,2102576676.0,Finance,Major Banks
+TEF,5,28789202093.32685,Communications,Specialty Telecommunications
+LTH,9,6477135180.0,Consumer Services,Other Consumer Services
+AMG,-1,4804614787.000001,Finance,Investment Managers
+HIMX,5,1222633981.0,Electronic Technology,Semiconductors
+RUM,4,3379815093.0,Technology Services,Internet Software/Services
+FFIN,5,4828552007.000001,Finance,Major Banks
+KIM/PN,7,14235496109.0,Finance,Real Estate Investment Trusts
+DJT,2,5455801815.0,Commercial Services,Advertising/Marketing Services
+HIW,4,3089852006.0,Finance,Real Estate Investment Trusts
+BEPC,8,4155369080.000001,Utilities,Electric Utilities
+WWW,8,1065607558.0,Consumer Non-Durables,Apparel/Footwear
+AAP,7,1972698617.0,Retail Trade,Specialty Stores
+BN,8,81045159426.01254,Finance,Investment Managers
+MUC,-1,1001174857.0,Miscellaneous,Investment Trusts/Mutual Funds
+PDI,-1,6512233280.0,Miscellaneous,Investment Trusts/Mutual Funds
+MIDD,7,7207897595.0,Producer Manufacturing,Industrial Machinery
+MODG,4,1223770501.0,Consumer Durables,Recreational Products
+UNF,4,3210371573.0,Consumer Services,Other Consumer Services
+ICL,8,8633197629.0,Process Industries,Chemicals: Agricultural
+CUBI/PF,-1,1583314158.0,Finance,Regional Banks
+PECO,8,4838009447.0,Finance,Real Estate Investment Trusts
+CWAN,10,6629469602.000001,Technology Services,Packaged Software
+GBTG,2,3236030759.0000005,Consumer Services,Other Consumer Services
+CENTA,-1,2002214439.0,Consumer Non-Durables,Consumer Sundries
+SYBT,6,2160641521.0,Finance,Regional Banks
+GBCI,-1,4656365862.0,Finance,Regional Banks
+IEX,9,13239105831.0,Producer Manufacturing,Industrial Machinery
+UA,4,2427067763.0,Consumer Non-Durables,Apparel/Footwear
+PRMB,7,12510908986.0,Consumer Non-Durables,Beverages: Non-Alcoholic
+RIVN,7,15774164606.0,Consumer Durables,Motor Vehicles
+HLNE,3,8870630059.0,Finance,Investment Managers
+RPM,-1,13809272975.0,Process Industries,Industrial Specialties
+KEY/PJ,7,16424801854.000002,Finance,Major Banks
+TGLS,6,3373523996.9999995,Producer Manufacturing,Building Products
+ATEC,9,1616069150.0000002,Health Technology,Medical Specialties
+BDJ,-1,1508115420.0,Miscellaneous,Investment Trusts/Mutual Funds
+BAC,6,302555444187.0,Finance,Major Banks
+BNT,-1,13220118659.541445,Finance,Multi-Line Insurance
+DB,10,51388994386.42297,Finance,Investment Banks/Brokers
+CET,-1,1290532220.0,Miscellaneous,Investment Trusts/Mutual Funds
+SCHW/PJ,10,151972246335.0,Finance,Investment Banks/Brokers
+RS,4,15354202121.0,Non-Energy Minerals,Steel
+MGA,5,9863560000.092987,Producer Manufacturing,Auto Parts: OEM
+MFC,10,53142565104.69414,Finance,Multi-Line Insurance
+BFH,1,2224585311.0,Finance,Regional Banks
+STT,4,25614240949.0,Finance,Investment Banks/Brokers
+EVO,5,1468674980.08242,Health Technology,Pharmaceuticals: Major
+SNN,9,12520347297.2331,Health Technology,Medical Specialties
+EFSC,7,1936121887.0,Finance,Regional Banks
+TEVA,6,17338852033.785484,Health Technology,Pharmaceuticals: Generic
+JD,8,42054748678.30475,Retail Trade,Internet Retail
+RNP,-1,1030030011.0,Miscellaneous,Investment Trusts/Mutual Funds
+CRWD,7,107051577443.99998,Technology Services,Packaged Software
+PFBC,8,1077043916.0000002,Finance,Regional Banks
+PIPR,4,4314641605.999999,Finance,Investment Banks/Brokers
+DCOM,7,1129410119.0,Finance,Regional Banks
+MANH,9,10845518729.0,Technology Services,Packaged Software
+PHIN,7,1609298592.0,Producer Manufacturing,Auto Parts: OEM
+JBL,7,15842027270.0,Producer Manufacturing,Industrial Machinery
+CMRE/PD,5,1126438474.0,Transportation,Marine Shipping
+EPAC,4,2198551883.9999995,Producer Manufacturing,Industrial Machinery
+PMT/PA,-1,1114605982.0,Finance,Real Estate Investment Trusts
+SYF,8,19911840016.0,Finance,Finance/Rental/Leasing
+CUBE,4,9374812718.0,Finance,Real Estate Investment Trusts
+IBOC,3,3823915318.0,Finance,Regional Banks
+GTES,,4910540767.0,Producer Manufacturing,Industrial Machinery
+WMK,7,2328867263.0,Retail Trade,Food Retail
+ITT,8,11170408244.0,Producer Manufacturing,Auto Parts: OEM
+AGNCL,,8065235441.0,Finance,Real Estate Investment Trusts
+BLTE,,1970063432.0,Health Technology,Pharmaceuticals: Major
+LPL,4,2934855000.0,Electronic Technology,Electronic Production Equipment
+PMT/PC,2,1114605982.0,Finance,Real Estate Investment Trusts
+CSCO,9,231218354716.0,Electronic Technology,Telecommunications Equipment
+NZF,,2322810710.0,Miscellaneous,Investment Trusts/Mutual Funds
+PINS,8,17253475566.000004,Technology Services,Internet Software/Services
+SPT,-1,1224590191.0,Technology Services,Packaged Software
+PFGC,6,12684778649.000002,Transportation,Other Transportation
+CDNS,10,81838879318.0,Technology Services,Packaged Software
+CASH,5,1905257543.0,Finance,Major Banks
+EMR,8,59666260207.00001,Electronic Technology,Electronic Equipment/Instruments
+NMZ,,1171713400.0,Miscellaneous,Investment Trusts/Mutual Funds
+EFC/PA,-1,1224890270.0,Finance,Real Estate Investment Trusts
+TRU,9,16296178718.999998,Commercial Services,Financial Publishing/Services
+CXW,9,2491363772.0,Commercial Services,Miscellaneous Commercial Services
+CCOI,3,2698625009.0,Communications,Major Telecommunications
+VIAV,6,2365763933.0,Technology Services,Information Technology Services
+VEON,10,3224480075.0,Communications,Wireless Telecommunications
+DTW,,28189209853.0,Utilities,Electric Utilities
+TCOM,6,39269128563.2254,Consumer Services,Other Consumer Services
+CUBI/PE,4,1583314158.0,Finance,Regional Banks
+AKAM,3,11851368382.000002,Technology Services,Data Processing Services
+WDAY,5,66001548943.99999,Technology Services,Information Technology Services
+EXPE,-1,20150144419.0,Consumer Services,Other Consumer Services
+MGRC,8,2642518368.0,Finance,Finance/Rental/Leasing
+LI,9,24607786731.2606,Consumer Durables,Motor Vehicles
+AUB/PA,9,3717361619.0,Finance,Regional Banks
+EXPI,6,1401531064.0000002,Finance,Real Estate Development
+ASGN,7,2227064486.0,Technology Services,Information Technology Services
+TFC,-1,50535107911.0,Finance,Regional Banks
+TDC,4,2078206831.0,Technology Services,Packaged Software
+BEP,10,6607192463.30877,Utilities,Electric Utilities
+WABC,6,1302238088.0000002,Finance,Regional Banks
+BOH/PA,1,2668192031.0,Finance,Regional Banks
+MTB,4,27775624305.0,Finance,Regional Banks
+CNM,7,10491962386.0,Distribution Services,Wholesale Distributors
+SLMBP,,6293596577.0,Finance,Finance/Rental/Leasing
+OPRA,10,1537624699.0,Technology Services,Packaged Software
+RVMD,8,7555517621.000001,Health Technology,Pharmaceuticals: Other
+TRMB,7,14921011110.0,Technology Services,Packaged Software
+CMRE,5,1126438474.0,Transportation,Marine Shipping
+BRZE,7,3278135820.0,Technology Services,Internet Software/Services
+NIC,6,1772709906.0,Finance,Major Banks
+ERO,7,1299822391.432681,Non-Energy Minerals,Other Metals/Minerals
+UWMC,6,7559996458.0,Finance,Finance/Rental/Leasing
+NKE,8,83777745217.0,Consumer Non-Durables,Apparel/Footwear
+BK,4,57885769259.0,Finance,Investment Banks/Brokers
+GTLB,6,7701440136.0,Technology Services,Packaged Software
+PEBO,7,1041213279.0,Finance,Regional Banks
+HBAN,6,21298586091.0,Finance,Major Banks
+TECK,5,17185048954.11566,Non-Energy Minerals,Other Metals/Minerals
+DTM,10,9935569852.0,Industrial Services,Oil & Gas Pipelines
+ELF,2,3510813420.0,Consumer Non-Durables,Household/Personal Care
+WINA,7,1279329340.0,Retail Trade,Apparel/Footwear Retail
+SRPT,-1,6168567872.0,Health Technology,Pharmaceuticals: Major
+BC,6,3043112535.0000005,Producer Manufacturing,Trucks/Construction/Farm Machinery
+ROK,3,28175515518.000004,Producer Manufacturing,Electrical Products
+IOSP,1,2261261183.0,Process Industries,Chemicals: Major Diversified
+FICO,6,48724275474.0,Technology Services,Packaged Software
+MHO,3,2874435784.0,Consumer Durables,Homebuilding
+FLG,-1,4889575265.000001,Finance,Savings Banks
+HPE/PC,7,21555818834.0,Electronic Technology,Computer Processing Hardware
+CHDN,10,6569509405.999999,Consumer Services,Movies/Entertainment
+EXP,7,7580927228.999999,Non-Energy Minerals,Construction Materials
+FSLR,10,13573933335.0,Electronic Technology,Semiconductors
+KYN,-1,1999069320.0,Finance,Investment Managers
+KAR,-1,1999483970.0,Technology Services,Packaged Software
+VTRS,6,10044204408.0,Health Technology,Pharmaceuticals: Major
+GAP,9,8296580414.000001,Retail Trade,Apparel/Footwear Retail
+DXPE,9,1396548932.0,Distribution Services,Wholesale Distributors
+NVG,,2560128780.0,Miscellaneous,Investment Trusts/Mutual Funds
+NMIH,7,2842112642.9999995,Finance,Property/Casualty Insurance
+ABCB,-1,4061609482.0,Finance,Regional Banks
+SRE,8,48697928327.0,Utilities,Gas Distributors
+KNF,6,5320789454.0,Non-Energy Minerals,Construction Materials
+NGVC,6,1156880406.0000002,Retail Trade,Food Retail
+HES,8,40145310818.99999,Energy Minerals,Integrated Oil
+HLMN,4,1388485327.0000002,Distribution Services,Wholesale Distributors
+IDCC,-1,5246244384.0,Technology Services,Packaged Software
+GTY,4,1560690813.0,Finance,Real Estate Investment Trusts
+U,7,8804782782.0,Technology Services,Packaged Software
+BTU,10,1508650349.9999998,Energy Minerals,Coal
+UMH,9,1467030864.0,Finance,Real Estate Investment Trusts
+IAS,1,1165865678.0,Technology Services,Packaged Software
+DLO,1,2540728603.0000005,Technology Services,Packaged Software
+BWA,7,6269846177.000001,Producer Manufacturing,Trucks/Construction/Farm Machinery
+TNET,7,3812401851.0,Commercial Services,Miscellaneous Commercial Services
+ONBPO,,6609149890.0,Finance,Major Banks
+AGM/PE,7,1863069132.0,Finance,Finance/Rental/Leasing
+BOKF,-1,6020690594.0,Finance,Major Banks
+GLBE,6,6118309435.999999,Retail Trade,Internet Retail
+TENB,5,3694672778.0,Technology Services,Packaged Software
+HAL,8,17134120748.000002,Industrial Services,Oilfield Services/Equipment
+HTHT,10,11063958280.476011,Consumer Services,Hotels/Resorts/Cruise lines
+NEA,,3270972480.0,Miscellaneous,Investment Trusts/Mutual Funds
+GAB,-1,1692919950.0,Miscellaneous,Investment Trusts/Mutual Funds
+CMPO,8,1130612241.9999998,Commercial Services,Commercial Printing/Forms
+STRF,,102775940451.0,Technology Services,Internet Software/Services
+BBSI,8,1047239015.0,Commercial Services,Personnel Services
+NATL,7,2060114226.0,Electronic Technology,Computer Processing Hardware
+CNS,6,3911082326.000001,Finance,Investment Managers
+AAT,2,1151166986.0,Finance,Real Estate Investment Trusts
+ARI,4,1308850912.0,Finance,Real Estate Investment Trusts
+LUCK,8,1351318296.0000002,Consumer Services,Movies/Entertainment
+PBR,7,69974549995.26231,Energy Minerals,Integrated Oil
+MET,10,51616645344.99999,Finance,Multi-Line Insurance
+EPR/PG,4,3775845088.0,Finance,Real Estate Investment Trusts
+IRON,3,1720564389.9999998,Health Technology,Biotechnology
+UBSI,6,4945301715.0,Finance,Regional Banks
+BBY,2,14170222161.000002,Retail Trade,Electronics/Appliance Stores
+TPH,7,2802611988.0000005,Consumer Durables,Homebuilding
+CZR,7,5656733142.0,Consumer Services,Casinos/Gaming
+TRNO,1,5832947174.0,Finance,Real Estate Investment Trusts
+ABM,4,3048718237.0,Commercial Services,Miscellaneous Commercial Services
+EQR,6,26831622634.0,Finance,Real Estate Investment Trusts
+SOJE,,100623705970.0,Utilities,Electric Utilities
+BBVA,7,78257254842.06448,Finance,Major Banks
+CCI,6,46286611809.0,Finance,Real Estate Investment Trusts
+VRNT,3,1101712740.0,Technology Services,Information Technology Services
+CNX,-1,4280898418.0,Energy Minerals,Integrated Oil
+WSBC,7,2863410382.0,Finance,Regional Banks
+C/PN,3,2690708000.0,Finance,Finance/Rental/Leasing
+AN,10,6598453254.0,Retail Trade,Specialty Stores
+SHEL,7,192586679582.9002,Energy Minerals,Integrated Oil
+COOP,8,7652652511.999999,Finance,Finance/Rental/Leasing
+VMC,8,34826450469.00001,Non-Energy Minerals,Construction Materials
+MCHPP,,24728915982.0,Electronic Technology,Semiconductors
+UAL,8,22587695609.0,Transportation,Airlines
+STBA,-1,1405117282.0,Finance,Regional Banks
+RF,5,18571089160.0,Finance,Major Banks
+RJF,2,28218162183.000004,Finance,Investment Managers
+NSA/PA,7,5027761462.0,Finance,Real Estate Investment Trusts
+LYFT,6,5241123132.0,Technology Services,Packaged Software
+FCNCP,,23945594110.0,Finance,Regional Banks
+LADR,-1,1343731900.0,Finance,Real Estate Investment Trusts
+INFA,6,6558591085.0,Technology Services,Packaged Software
+NLY/PF,8,11604520374.0,Finance,Real Estate Investment Trusts
+TPG,5,16937309375.999998,Finance,Investment Managers
+UZF,,5853859865.0,Communications,Wireless Telecommunications
+ECL,6,71651250325.0,Process Industries,Chemicals: Specialty
+TXRH,-1,11076198958.000002,Consumer Services,Restaurants
+NMM,5,1016432228.0,Transportation,Marine Shipping
+PWP,3,1524500737.0000002,Finance,Investment Banks/Brokers
+FLUT,-1,42776624861.0,Consumer Services,Casinos/Gaming
+ACN,10,188139538281.0,Technology Services,Information Technology Services
+FELE,2,3907358315.0,Producer Manufacturing,Industrial Machinery
+RAMP,-1,1728190946.0,Technology Services,Packaged Software
+JBLU,1,1552008556.0,Transportation,Airlines
+SGI,9,12794439612.0,Consumer Durables,Home Furnishings
+CHCO,5,1712861452.0,Finance,Major Banks
+COST,6,443257403845.00006,Retail Trade,Specialty Stores
+BRC,5,3373761930.9999995,Producer Manufacturing,Miscellaneous Manufacturing
+CINF,-1,21857495429.0,Finance,Multi-Line Insurance
+STLD,8,19530799932.000004,Non-Energy Minerals,Steel
+HUN,8,2323003818.0,Process Industries,Chemicals: Major Diversified
+MNR,9,1596332627.0000002,Energy Minerals,Integrated Oil
+CIB,8,10567045095.007284,Finance,Major Banks
+HLIT,9,1055817025.0,Electronic Technology,Telecommunications Equipment
+MTN,-1,5220594808.0,Consumer Services,Hotels/Resorts/Cruise lines
+TFC/PR,4,50535107911.0,Finance,Regional Banks
+FYBR,1,9111493014.0,Communications,Major Telecommunications
+BKV,7,1542539412.9999998,Energy Minerals,Integrated Oil
+HTH,4,1902841780.0,Finance,Regional Banks
+IBP,4,4598869041.0,Industrial Services,Engineering & Construction
+HTZ,-1,2109125590.0,Finance,Finance/Rental/Leasing
+DAVA,8,1079684945.0,Technology Services,Information Technology Services
+FTNT,9,80134786095.0,Technology Services,Information Technology Services
+GEF.B,3,2559747803.0000005,Process Industries,Containers/Packaging
+HAFN,5,2355521986.069384,Transportation,Marine Shipping
+CPNG,3,42607079472.0,Retail Trade,Internet Retail
+REGCP,-1,26292216406.0,Finance,Real Estate Investment Trusts
+RF/PE,5,18571089160.0,Finance,Major Banks
+ET/PI,6,56717987759.0,Industrial Services,Oil & Gas Pipelines
+AZEK,4,7159310828.0,Producer Manufacturing,Building Products
+ESGRP,,4987167550.0,Finance,Multi-Line Insurance
+GPI,4,5242829513.0,Retail Trade,Specialty Stores
+MGNI,-1,1688031105.0000002,Technology Services,Packaged Software
+ASB/PF,9,3725741617.0,Finance,Major Banks
+FITB,2,24111690774.0,Finance,Regional Banks
+NDSN,4,10833718737.0,Producer Manufacturing,Industrial Machinery
+NSA/PB,7,5027761462.0,Finance,Real Estate Investment Trusts
+REXR/PB,9,7850842454.0,Finance,Real Estate Investment Trusts
+EVR,-1,8064164180.0,Finance,Investment Banks/Brokers
+SBLK,2,1733487510.0,Transportation,Marine Shipping
+AL,2,5247091351.0,Finance,Finance/Rental/Leasing
+ADEA,8,1340379122.0,Technology Services,Packaged Software
+J,7,15232178636.0,Technology Services,Data Processing Services
+EGP,7,8616817049.0,Finance,Real Estate Investment Trusts
+NBTB,5,2008825746.0,Finance,Major Banks
+TDS,9,4035311646.000001,Communications,Wireless Telecommunications
+GCMG,7,2432730295.0,Finance,Investment Managers
+RH,2,3460269166.9999995,Retail Trade,Specialty Stores
+USB,5,63099425171.0,Finance,Major Banks
+APD,-1,60548981200.0,Process Industries,Chemicals: Specialty
+FHI,8,3225023508.0000005,Finance,Investment Managers
+TGI,7,1974139526.0,Electronic Technology,Aerospace & Defense
+AGNCN,,8065235441.0,Finance,Real Estate Investment Trusts
+FHB,2,2901405590.0,Finance,Regional Banks
+ZS,9,35131835255.0,Technology Services,Data Processing Services
+WMB,9,71776323580.0,Utilities,Gas Distributors
+MSTR,9,102775940451.00002,Technology Services,Internet Software/Services
+YALA,7,1217142235.0,Technology Services,Internet Software/Services
+CRNX,8,3138448141.0,Health Technology,Pharmaceuticals: Major
+FFIV,-1,15322239447.0,Technology Services,Packaged Software
+ONB,8,6609149889.999999,Finance,Major Banks
+JPC,,2502826000.0,Miscellaneous,Investment Trusts/Mutual Funds
+SFM,9,16798411014.0,Retail Trade,Food Retail
+AAPL,5,3204508774048.0,Electronic Technology,Telecommunications Equipment
+OMCL,4,1469952287.0,Technology Services,Information Technology Services
+DMLP,-1,1361964802.0,Miscellaneous,Investment Trusts/Mutual Funds
+LVS,6,26010961582.0,Consumer Services,Casinos/Gaming
+UEC,6,2259415674.0,Non-Energy Minerals,Other Metals/Minerals
+PDD,6,147525762278.0,Retail Trade,Department Stores
+S,9,6121734311.0,Technology Services,Packaged Software
+ICFI,4,1570099920.0,Commercial Services,Miscellaneous Commercial Services
+XPEV,-1,17848918390.271225,Consumer Durables,Motor Vehicles
+MTB/PJ,4,27775624305.0,Finance,Regional Banks
+IMKTA,5,1151089737.0,Retail Trade,Food Retail
+RLJ/PA,9,1084119849.0,Finance,Real Estate Investment Trusts
+BROS,7,9781114256.000002,Consumer Non-Durables,Food: Specialty/Candy
+CAR,5,3271814239.0000005,Finance,Finance/Rental/Leasing
+RHI,6,4535170917.0,Commercial Services,Personnel Services
+CP,7,67908985396.86511,Transportation,Railroads
+AGM/PD,7,1863069132.0,Finance,Finance/Rental/Leasing
+SCCO,8,70828152972.89784,Non-Energy Minerals,Other Metals/Minerals
+CFR/PB,3,7735760552.0,Finance,Regional Banks
+AMBA,-1,2042624868.0,Electronic Technology,Semiconductors
+GS/PC,5,172125038562.0,Finance,Investment Banks/Brokers
+CMI,6,40617533909.99999,Producer Manufacturing,Auto Parts: OEM
+GPN,9,18798700772.0,Commercial Services,Miscellaneous Commercial Services
+CLBT,8,4755875583.0,Technology Services,Packaged Software
+SPH,4,1292454687.0,Distribution Services,Wholesale Distributors
+RZC,-1,12354073940.0,Finance,Life/Health Insurance
+TEM,8,8971753719.0,Technology Services,Packaged Software
+TDS/PU,9,4035311646.0,Communications,Wireless Telecommunications
+INDV,10,1440965800.0,Health Technology,Pharmaceuticals: Major
+LAD,7,7647001112.0,Retail Trade,Specialty Stores
+WT,7,1283727810.0,Miscellaneous,Investment Trusts/Mutual Funds
+CODI/PC,-1,1280516236.0,Finance,Investment Managers
+NFJ,,1106334672.0,Miscellaneous,Investment Trusts/Mutual Funds
+MRC,8,1007726714.0,Distribution Services,Wholesale Distributors
+BILI,9,7266085204.965931,Technology Services,Packaged Software
+NRP,6,1346129387.0,Energy Minerals,Coal
+CPK,7,3040340929.0,Utilities,Gas Distributors
+ARR/PC,-1,1340691836.0,Finance,Real Estate Investment Trusts
+USPH,4,1083927022.0,Health Services,Medical/Nursing Services
+BHP,4,122468149602.31606,Non-Energy Minerals,Steel
+LOPE,9,5087374394.000001,Commercial Services,Miscellaneous Commercial Services
+BIP,8,19626057276.0,Utilities,Alternative Power Generation
+SARO,7,9067255248.0,Transportation,Other Transportation
+TEAM,-1,60016410074.99999,Technology Services,Packaged Software
+REG,3,26292216406.0,Finance,Real Estate Investment Trusts
+AVNT,5,3059021122.9999995,Process Industries,Chemicals: Major Diversified
+OLLI,6,6520783376.000001,Retail Trade,Department Stores
+WFC/PL,6,233682845795.0,Finance,Major Banks
+MKL,8,23143591725.0,Finance,Property/Casualty Insurance
+QDEL,3,1880634759.0,Health Technology,Medical Specialties
+CAE,10,8026826011.644586,Commercial Services,Miscellaneous Commercial Services
+BML/PG,,302555444187.0,Finance,Major Banks
+AMED,5,3124429371.0000005,Health Services,Medical/Nursing Services
+LNC,7,5457124633.000001,Finance,Multi-Line Insurance
+GFS,-1,19451473943.0,Electronic Technology,Semiconductors
+PAYC,8,13138261728.0,Technology Services,Packaged Software
+HEES,9,3303292763.0,Finance,Finance/Rental/Leasing
+BSX,10,152625256560.99997,Health Technology,Medical Specialties
+UCB/PI,9,3331334245.0,Finance,Regional Banks
+NOW,9,198295652527.0,Technology Services,Packaged Software
+SF/PB,5,8911330300.0,Finance,Investment Managers
+OSCR,6,2857863023.0,Health Services,Managed Health Care
+TOL,8,10061035332.0,Consumer Durables,Homebuilding
+CDP,6,5908110592.0,Finance,Real Estate Investment Trusts
+IART,1,1269244502.0,Health Technology,Medical Specialties
+EPR,-1,3775845088.0,Finance,Real Estate Investment Trusts
+DLR/PK,9,54512884156.0,Finance,Real Estate Investment Trusts
+ALRM,2,2672794398.9999995,Technology Services,Packaged Software
+FLNG,6,1256529807.0,Transportation,Marine Shipping
+PINC,5,1863583937.0,Health Services,Hospital/Nursing Management
+ALK,9,5450179115.0,Transportation,Airlines
+NUE,10,27624928106.0,Non-Energy Minerals,Steel
+VFS,7,8022127869.000001,Consumer Durables,Motor Vehicles
+NNN,6,7752625236.0,Finance,Real Estate Investment Trusts
+WSO,1,18686805817.0,Producer Manufacturing,Building Products
+TASK,7,1263417729.9999998,Commercial Services,Miscellaneous Commercial Services
+ENIC,-1,4865867671.874999,Utilities,Electric Utilities
+POWI,4,2800286325.0,Electronic Technology,Semiconductors
+NTRA,9,20515317300.0,Health Technology,Medical Specialties
+WFG,9,5904137043.132174,Non-Energy Minerals,Forest Products
+PRGS,4,2587153255.0000005,Technology Services,Packaged Software
+RZB,,12354073940.0,Finance,Life/Health Insurance
+PB,-1,6486438133.0,Finance,Regional Banks
+FHN/PB,8,9267960348.0,Finance,Regional Banks
+ICUI,7,3370852451.9999995,Health Technology,Medical Specialties
+QCRH,7,1101952974.0000002,Finance,Major Banks
+USM,7,5853859865.000001,Communications,Wireless Telecommunications
+LOAR,8,8872857185.999998,Electronic Technology,Aerospace & Defense
+DECK,-1,16866603737.000002,Consumer Non-Durables,Apparel/Footwear
+MO,10,99904844757.0,Consumer Non-Durables,Tobacco
+WFC/PA,6,233682845795.0,Finance,Major Banks
+ISRG,8,185366744501.0,Health Technology,Medical Specialties
+KTB,7,3336713910.0,Consumer Non-Durables,Apparel/Footwear
+TILE,6,1104760207.0,Producer Manufacturing,Building Products
+ACLS,-1,1580399925.0,Producer Manufacturing,Industrial Machinery
+EFC/PB,7,1224890270.0,Finance,Real Estate Investment Trusts
+JKHY,5,12676176584.999998,Technology Services,Packaged Software
+LBTYK,3,3858882072.0,Communications,Major Telecommunications
+CSWCZ,,1018718237.0,Finance,Investment Managers
+VRNA,8,6151638701.0,Health Technology,Pharmaceuticals: Major
+CXM,-1,1972884088.0,Technology Services,Packaged Software
+CUBI,4,1583314158.0,Finance,Regional Banks
+BLCO,2,4095867430.0,Health Technology,Medical Specialties
+TREX,8,6215539179.0,Non-Energy Minerals,Forest Products
+FHN/PE,8,9267960348.0,Finance,Regional Banks
+PD,4,1416363211.0000002,Technology Services,Packaged Software
+ADC/PA,-1,8462626437.999999,Finance,Real Estate Investment Trusts
+KMT,1,1510847272.0,Producer Manufacturing,Industrial Machinery
+QS,1,2190991238.9999995,Producer Manufacturing,Electrical Products
+VC,5,2164031485.0,Producer Manufacturing,Auto Parts: OEM
+SOJD,,100623705970.0,Utilities,Electric Utilities
+RELY,9,4131909194.0,Commercial Services,Miscellaneous Commercial Services
+SGHC,10,4081651740.0,Consumer Services,Casinos/Gaming
+WAFD,6,2309698125.0,Finance,Major Banks
+ENLT,4,1949601520.0,Utilities,Alternative Power Generation
+JFR,,1099259200.0,Miscellaneous,Investment Trusts/Mutual Funds
+AFGD,,10551428205.0,Finance,Property/Casualty Insurance
+LPX,5,6025490148.0,Non-Energy Minerals,Forest Products
+NWBI,6,1578634007.0,Finance,Savings Banks
+ZG,6,16185637622.000002,Technology Services,Internet Software/Services
+ETR,2,36099175570.0,Utilities,Electric Utilities
+ATS,9,2469752105.780132,Producer Manufacturing,Industrial Machinery
+SYF/PB,8,19911840016.0,Finance,Finance/Rental/Leasing
+CRM,6,258415004203.0,Technology Services,Packaged Software
+NUV,,1803539980.0,Miscellaneous,Investment Trusts/Mutual Funds
+MOS,9,9665988918.0,Process Industries,Chemicals: Agricultural
+USB/PQ,5,63099425171.0,Finance,Major Banks
+YELP,-1,2264134242.0,Technology Services,Internet Software/Services
+ENTG,7,11999783525.0,Producer Manufacturing,Industrial Machinery
+MPC,9,42904096739.00001,Energy Minerals,Oil Refining/Marketing
+TTAN,8,10444128414.0,Technology Services,Packaged Software
+EVT,,1663795296.0,Miscellaneous,Investment Trusts/Mutual Funds
+JBTM,6,5481825582.000001,Producer Manufacturing,Industrial Machinery
+OBK,-1,1003245026.0,Finance,Regional Banks
+CACI,10,10090575594.0,Technology Services,Information Technology Services
+MANU,6,2350059581.0,Consumer Services,Movies/Entertainment
+REGCO,,26292216406.0,Finance,Real Estate Investment Trusts
+GDRX,4,1779947221.0,Technology Services,Internet Software/Services
+XRAY,6,2776157067.0,Health Technology,Medical Specialties
+TDS/PV,-1,4035311646.0,Communications,Wireless Telecommunications
+MBINL,,1409485984.0,Finance,Regional Banks
+SLNO,1,3744120958.0,Health Technology,Pharmaceuticals: Major
+UTG,,2891552265.0,Miscellaneous,Investment Trusts/Mutual Funds
+BA/PA,9,137900064185.0,Electronic Technology,Aerospace & Defense
+BL,4,2985417538.0,Technology Services,Packaged Software
+REXR,-1,7850842454.0,Finance,Real Estate Investment Trusts
+WBS/PF,5,8046477362.0,Finance,Savings Banks
+BCPC,6,5117002488.000001,Consumer Non-Durables,Food: Specialty/Candy
+TWO/PA,4,1224375393.0,Finance,Real Estate Investment Trusts
+RDFN,2,1217810318.0,Finance,Real Estate Development
+VCTR,7,3844490652.0,Finance,Investment Managers
+DELL,-1,64166461423.0,Electronic Technology,Computer Processing Hardware
+LBRDP,,12715258327.0,Communications,Wireless Telecommunications
+BLK,5,142022111884.00003,Finance,Investment Managers
+WDC,10,15286861267.0,Electronic Technology,Computer Peripherals
+SHW,5,88622389486.0,Process Industries,Industrial Specialties
+UNIT,3,1204050076.0,Finance,Real Estate Investment Trusts
+PZZA,-1,1131741765.0,Consumer Services,Restaurants
+EBC,9,3155724687.9999995,Finance,Regional Banks
+RJF/PB,2,28218162183.0,Finance,Investment Managers
+PRDO,6,1649479561.0000002,Consumer Services,Other Consumer Services
+MS/PE,7,188317022230.0,Finance,Investment Managers
+ESNT,6,5895256339.0,Finance,Specialty Insurance
+CRVL,-1,5596605384.000001,Finance,Insurance Brokers/Services
+KKR,4,101695803494.00002,Finance,Investment Managers
+CXT,5,2696374099.0,Producer Manufacturing,Industrial Machinery
+CDLR,3,1818176405.91048,Producer Manufacturing,Trucks/Construction/Farm Machinery
+CM,4,59288798543.68392,Finance,Regional Banks
+PLNT,5,7996632611.0,Consumer Services,Other Consumer Services
+PLTK,-1,1982301861.0,Technology Services,Packaged Software
+BTT,,1396221232.0,Miscellaneous,Investment Trusts/Mutual Funds
+JAZZ,7,7222072195.0,Health Technology,Pharmaceuticals: Major
+DHT,8,1719576008.0000002,Transportation,Marine Shipping
+CYTK,3,5115535468.0,Health Technology,Pharmaceuticals: Major
+PNC,10,63711730804.99999,Finance,Major Banks
+EFX,-1,32367508860.000004,Commercial Services,Financial Publishing/Services
+RMBS,5,5250294324.999999,Electronic Technology,Semiconductors
+SRCE,7,1475248413.0,Finance,Regional Banks
+F/PD,4,40481256114.0,Consumer Durables,Motor Vehicles
+NAC,,1586153120.0,Miscellaneous,Investment Trusts/Mutual Funds
+EQH/PC,7,15114379982.0,Finance,Life/Health Insurance
+STAG,-1,6300002936.0,Finance,Real Estate Investment Trusts
+OC,3,12460694018.0,Process Industries,Containers/Packaging
+WFC/PD,6,233682845795.0,Finance,Major Banks
+EVTC,2,2176954849.0,Finance,Regional Banks
+PARAA,6,8263539566.0,Consumer Services,Broadcasting
+MSCI,7,42250250372.0,Technology Services,Data Processing Services
+RF/PC,-1,18571089160.0,Finance,Major Banks
+AMKR,8,4318543563.999999,Electronic Technology,Semiconductors
+LYB,7,18740834085.0,Process Industries,Chemicals: Specialty
+CNNE,7,1114391320.0,Consumer Services,Restaurants
+DCI,2,7869053483.0,Producer Manufacturing,Auto Parts: OEM
+LAMR,4,11688181011.0,Finance,Real Estate Investment Trusts
+IMCR,-1,1509455510.0,Health Technology,Biotechnology
+WMT,7,779366452137.0,Retail Trade,Specialty Stores
+PMT/PB,2,1114605982.0,Finance,Real Estate Investment Trusts
+COLM,1,3435357898.0000005,Consumer Non-Durables,Apparel/Footwear
+RHP,6,5285463963.0,Finance,Real Estate Investment Trusts
+JOBY,7,4991592391.0,Electronic Technology,Aerospace & Defense
+TMHC,-1,5765119597.0,Consumer Durables,Homebuilding
+SOJF,,100623705970.0,Utilities,Electric Utilities
+TKR,7,4502121233.0,Producer Manufacturing,Industrial Machinery
+AEG,8,9896418311.674711,Finance,Insurance Brokers/Services
+NFLX,9,482372276546.0,Technology Services,Internet Software/Services
+SEZL,6,1767189786.0000002,Technology Services,Packaged Software
+TKO,10,27928213466.000004,Consumer Services,Movies/Entertainment
+BKD,5,1539665445.0000002,Health Services,Hospital/Nursing Management
+XYL,6,29384634842.0,Producer Manufacturing,Industrial Machinery
+CVX,5,238007953813.0,Energy Minerals,Integrated Oil
+MSGS,4,4631890006.0,Consumer Services,Movies/Entertainment
+CSX,-1,52805926352.0,Transportation,Railroads
+XOM,3,457529536605.0,Energy Minerals,Integrated Oil
+EQIX,6,84317034198.0,Finance,Real Estate Investment Trusts
+NABL,4,1335927430.0,Technology Services,Packaged Software
+RNR/PF,2,11539800120.0,Finance,Property/Casualty Insurance
+OLN,7,2491549388.0,Process Industries,Industrial Specialties
+AZZ,-1,2598848824.0000005,Process Industries,Industrial Specialties
+NBHC,3,1379395096.0,Finance,Regional Banks
+HBM,7,2875593221.6712875,Non-Energy Minerals,Other Metals/Minerals
+BHF,7,3384926724.9999995,Finance,Life/Health Insurance
+ACI,10,12672254945.0,Retail Trade,Food Retail
+SCHW,10,151972246335.0,Finance,Investment Banks/Brokers
+EQNR,-1,62293416308.3232,Energy Minerals,Integrated Oil
+STM,5,20062320202.00698,Electronic Technology,Semiconductors
+WFC/PY,6,233682845795.0,Finance,Major Banks
+FCNCA,6,23945594110.0,Finance,Regional Banks
+PEB/PE,6,1084782453.0,Finance,Real Estate Investment Trusts
+IGIC,8,1086674283.0,Finance,Financial Conglomerates
+OTIS,-1,38042877737.0,Producer Manufacturing,Building Products
+HXL,2,3902359582.000001,Electronic Technology,Aerospace & Defense
+MTB/PH,4,27775624305.0,Finance,Regional Banks
+FITBP,,24111690774.0,Finance,Regional Banks
+RNA,7,3929740025.0,Health Technology,Biotechnology
+IGT,5,3317359655.0000005,Consumer Services,Casinos/Gaming
+VLYPN,,4877845096.0,Finance,Major Banks
+IIPR/PA,5,1557967538.0,Finance,Real Estate Investment Trusts
+NICE,7,9919965055.1298,Technology Services,Information Technology Services
+USB/PA,5,63099425171.0,Finance,Major Banks
+RY,7,169532023698.96237,Finance,Major Banks
+ESTC,-1,9010826590.0,Technology Services,Packaged Software
+DTG,,28189209853.0,Utilities,Electric Utilities
+HON,7,135439002589.0,Distribution Services,Wholesale Distributors
+LH,8,20187552823.0,Health Services,Medical/Nursing Services
+GLNG,9,4451686217.0,Transportation,Marine Shipping
+WMS,7,8813257313.0,Producer Manufacturing,Miscellaneous Manufacturing
+BBIO,-1,7291420016.0,Health Technology,Biotechnology
+BIDU,7,31247521648.31549,Technology Services,Internet Software/Services
+EQH/PA,7,15114379982.0,Finance,Life/Health Insurance
+IX,5,21634160840.320454,Finance,Finance/Rental/Leasing
+ABT,8,227709815878.0,Health Technology,Medical Specialties
+ACGLO,,33690456075.0,Finance,Multi-Line Insurance
+KEYS,-1,25150841390.0,Electronic Technology,Electronic Equipment/Instruments
+ABG,6,4292577840.0,Retail Trade,Specialty Stores
+URBN,2,4895270081.0,Retail Trade,Apparel/Footwear Retail
+MHK,1,6654784842.0,Producer Manufacturing,Building Products
+SSNC,5,18664942148.0,Technology Services,Information Technology Services
+BAC/PL,6,302555444187.0,Finance,Major Banks
+SSD,-1,6456927829.999999,Producer Manufacturing,Building Products
+TOWN,7,2478531810.9999995,Finance,Regional Banks
+DD,7,27641827509.0,Process Industries,Chemicals: Major Diversified
